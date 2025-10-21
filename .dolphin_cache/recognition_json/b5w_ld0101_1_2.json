@@ -1,0 +1,1294 @@
+{
+  "source_file": "F:\\KeyWordSystem\\data\\b5w_ld0101_1_2.pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            17,
+            388,
+            71
+          ],
+          "text": "罗马尼亚语大学历史学会\n\nB5W-LD0101-1/2",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            460,
+            80,
+            585,
+            92
+          ],
+          "text": "CSM_B5W-LD0101-1_2_DS_J_1_5",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            107,
+            254,
+            125
+          ],
+          "text": "高感度&小型のダストセンサ",
+          "reading_order": 2
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            134,
+            308,
+            152
+          ],
+          "text": "•LED光源を用いながら最小粒径0.5 μmの粒子を検出可能",
+          "reading_order": 3
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            152,
+            227,
+            162
+          ],
+          "text": "•大気を効率的に吸い込む独自の流路構造",
+          "reading_order": 4
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            162,
+            227,
+            179
+          ],
+          "text": "・コンバクトな光学系により小型化を実現",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            206,
+            95,
+            218
+          ],
+          "text": "RoHS滴合",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_001_figure_007.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_001_figure_007.png",
+          "bbox": [
+            39,
+            232,
+            263,
+            259
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_001_figure_008.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_001_figure_008.png",
+          "bbox": [
+            388,
+            116,
+            567,
+            232
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            295,
+            101,
+            309
+          ],
+          "text": "形式構成",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_001_figure_010.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_001_figure_010.png",
+          "bbox": [
+            46,
+            321,
+            352,
+            367
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            367,
+            93,
+            385
+          ],
+          "text": "D基本種別",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            385,
+            264,
+            395
+          ],
+          "text": "L:光センサ 01:基準構造",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            395,
+            264,
+            423
+          ],
+          "text": "(2)七ンサ種別\n(4)機能\n(): 基準機能",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            361,
+            367,
+            415,
+            380
+          ],
+          "text": "⑤椢包形態",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            370,
+            385,
+            415,
+            394
+          ],
+          "text": "]: ]個",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            370,
+            394,
+            427,
+            412
+          ],
+          "text": "2:300個",
+          "reading_order": 16
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            465,
+            71,
+            483
+          ],
+          "text": "種類",
+          "reading_order": 17
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            44,
+            492,
+            588,
+            573
+          ],
+          "text": "<table><tr><td>形状</td><td>棱出方式</td><td>接筋方式</td><td>出力形式</td><td>形式</td><td>极包形象</td></tr><tr><td rowspan=\"2\">路撒冷),只有31%的巴勒斯坦人能使用水</td><td rowspan=\"2\">光截近方式</td><td rowspan=\"2\">コネクタ提高</td><td rowspan=\"2\">バルス出力(ブルアップボールボールス)の成功</td><td>形B5W-LD0101-1</td><td>1個</td></tr><tr><td>形B5W-LD0101-2</td><td>300個</td></tr></table>",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            424,
+            474,
+            585,
+            483
+          ],
+          "text": "(納爾についてはお取引き商社にお問い会わせください、",
+          "reading_order": 19
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            83,
+            869,
+            400,
+            887
+          ],
+          "text": "芒精入当社贩壳店 または オムロンFAストア $\\rightarrow$ www.fa.omron.co.jp",
+          "reading_order": 20
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            505,
+            859,
+            612,
+            887
+          ],
+          "text": "omron 1",
+          "reading_order": 21
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            469,
+            26,
+            588,
+            44
+          ],
+          "text": "B5W-LD0101-1/2",
+          "reading_order": 0
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            53,
+            178,
+            66
+          ],
+          "text": "定格/性能/外装仕様",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            44,
+            71,
+            176,
+            89
+          ],
+          "text": "絶対最大定格 (Ta=25℃)",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            44,
+            89,
+            308,
+            170
+          ],
+          "text": "<table><tr><td>项目</td><td>記号</td><td>定格值</td><td>単位</td></tr><tr><td>電源電圧</td><td>Vcc</td><td>5.5</td><td>V</td></tr><tr><td>閾値電圧</td><td>Vth</td><td>5.5</td><td>V</td></tr><tr><td>動作温度</td><td>Topt</td><td>0∼45</td><td>℃</td></tr><tr><td>保存温度</td><td>Tstg</td><td>−25∼65</td><td>℃</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            45,
+            179,
+            93,
+            197
+          ],
+          "text": "外蒙仕様",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            197,
+            308,
+            250
+          ],
+          "text": "<table><tr><td rowspan=\"2\">接続方式</td><td rowspan=\"2\">質量 (g)</td><td colspan=\"2\">材質</td></tr><tr><td>ケース</td><td>レンズ</td></tr><tr><td>コネクタ接続</td><td>20</td><td>PC</td><td>PMMA</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            325,
+            71,
+            542,
+            89
+          ],
+          "text": "電気的特性 (Ta=25°C、 Vcc=5V、 OLx)",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            325,
+            89,
+            588,
+            209
+          ],
+          "text": "<table><tr><td rowspan=\"2\">项目</td><td colspan=\"3\">特性值</td><td rowspan=\"2\">罪位</td><td rowspan=\"2\">得考</td></tr><tr><td>MIN</td><td>TYP</td><td>MAX</td></tr><tr><td>V OC</td><td>4.5</td><td>5</td><td>5.5</td><td>V</td><td>リップル電腦30mV以下(キ)を接受</td></tr><tr><td>V PI</td><td>0</td><td>–</td><td>3.5</td><td>V</td><td></td></tr><tr><td>V(OUT1) /V(OUT2) /V(C) /V(C) 出力電圧</td><td>4.5</td><td>–</td><td>–</td><td>V</td><td>粒子接知時バルス出力</td></tr><tr><td>V(OUT1) /V(OUT2) ローレベル出力電圧</td><td>–</td><td>–</td><td>0.7</td><td>V</td><td>粒子排放時バルス出力</td></tr><tr><td>消費費流</td><td>–</td><td>–</td><td>90</td><td>mA</td><td>LED-ON</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            325,
+            215,
+            514,
+            232
+          ],
+          "text": "*300Hz以下のノイズがないよう、 ご注意ください。\nリップル電圧の許容偵は実機でご確認お願いします。",
+          "reading_order": 8
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            325,
+            259,
+            588,
+            394
+          ],
+          "text": "<table><tr><td colspan=\"2\" rowspan=\"2\">项目</td><td colspan=\"3\">特性值</td><td rowspan=\"3\">罪位 count</td><td rowspan=\"3\">得考 按照下列各项而予以决定─(7)〔除以下法律程序外〔述明法律程序</td></tr><tr><td rowspan=\"2\">MIN —</td><td rowspan=\"2\">TYP 300</td><td rowspan=\"2\">MAX —</td></tr><tr><td>V(OUT1)和子核出数</td><td>PN1</td></tr><tr><td>V(OUT2)和子核出数</td><td>PN2</td><td>0</td><td>—</td><td>—</td><td>count</td><td>的贸易的现有资料,非常复杂的原因是钻石走私情况十分</td></tr></table>",
+          "reading_order": 9
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            325,
+            241,
+            532,
+            259
+          ],
+          "text": "検出特性 (Ta=25°C、 Vcc=5V、 OLx)",
+          "reading_order": 10
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            325,
+            409,
+            397,
+            421
+          ],
+          "text": "最小検出粒径",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            325,
+            421,
+            451,
+            450
+          ],
+          "text": "V(OUT1): 約0.5μm以上\nV(OUT2): 約2.5μm以上",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            83,
+            869,
+            400,
+            887
+          ],
+          "text": "芒精入当社贩壳店 または オムロンFAストア $\\rightarrow$ www.fa.omron.co.jp",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            505,
+            869,
+            558,
+            887
+          ],
+          "text": "OMRON",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            594,
+            860,
+            612,
+            887
+          ],
+          "text": "2",
+          "reading_order": 15
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            469,
+            26,
+            588,
+            44
+          ],
+          "text": "B5W-LD0101-1/2",
+          "reading_order": 0
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            53,
+            166,
+            71
+          ],
+          "text": "特性データ (参考値)",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            71,
+            212,
+            89
+          ],
+          "text": "粉鹿量—検出粒子数 相関グラフ",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_003_figure_003.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_003_figure_003.png",
+          "bbox": [
+            155,
+            98,
+            478,
+            349
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            349,
+            84,
+            367
+          ],
+          "text": "測定環境",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            367,
+            308,
+            394
+          ],
+          "text": "粉塵量計 型式:TSI DUSTTRAK II MODEL8530\n分級インバクタ:1.0μm、 K値設定:1",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            394,
+            194,
+            421
+          ],
+          "text": "ダストセンサ 閾値: 0.5V\n測定時間: 20se",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            421,
+            93,
+            439
+          ],
+          "text": "参考文献",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            439,
+            245,
+            449
+          ],
+          "text": "Condition Ta=25℃、 Voc=5V、 OLx",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            455,
+            173,
+            465
+          ],
+          "text": "注, 因此30台实测结果の参考特性です。",
+          "reading_order": 9
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            474,
+            98,
+            492
+          ],
+          "text": "曲力信号",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            519,
+            146,
+            537
+          ],
+          "text": "V(OUT1)、V(OUT2)",
+          "reading_order": 11
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_003_figure_012.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_003_figure_012.png",
+          "bbox": [
+            155,
+            501,
+            426,
+            557
+          ],
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            173,
+            564,
+            442,
+            582
+          ],
+          "text": "·粒子非换出時はOV、 検出時は5Vの正八しスを出力します。",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            173,
+            582,
+            505,
+            609
+          ],
+          "text": "•測定時間内の八しス数をカウントし、 センサカウント数としてください。\n•最小ゾしス幅は0.5msecです。",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            173,
+            610,
+            397,
+            627
+          ],
+          "text": "・サンプリング周波数は4kHz以上としてください",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            635,
+            137,
+            648
+          ],
+          "text": "内部ブロック図",
+          "reading_order": 17
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_003_figure_018.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_003_figure_018.png",
+          "bbox": [
+            155,
+            663,
+            478,
+            820
+          ],
+          "reading_order": 18
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            155,
+            824,
+            469,
+            842
+          ],
+          "text": "* 點作させるためには、 しきい恤電圧Vthを0.5〜3.0V程度に設定いただく必要があります。\n推奨しきい恤電圧Vthは0.5Vで、 「 定格 / 性能 / 外装仕様」 の検出特性の条件と同じです",
+          "reading_order": 19
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            83,
+            869,
+            400,
+            887
+          ],
+          "text": "芒精入当社贩壳店 または オムロンFAストア $\\rightarrow$ www.fa.omron.co.jp",
+          "reading_order": 20
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            505,
+            859,
+            612,
+            887
+          ],
+          "text": "omron 3",
+          "reading_order": 21
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            45,
+            53,
+            178,
+            66
+          ],
+          "text": "正しくお使いください",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            469,
+            26,
+            588,
+            44
+          ],
+          "text": "B5W-LD0101-1/2",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            77,
+            415,
+            89
+          ],
+          "text": "詳しくは共通の注意事項およびで注文に際してので承諾事項をで覧ください。",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_004_figure_003.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_004_figure_003.png",
+          "bbox": [
+            44,
+            98,
+            155,
+            116
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            155,
+            98,
+            200,
+            116
+          ],
+          "text": "^ 注意",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            116,
+            255,
+            172
+          ],
+          "text": "安全を確保する目的で直接的または間接的に人体\nを検出する用途に本製品は使用できません。\n人体保護用の検出装置として本製品を使用しない\nでください。",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            137,
+            204,
+            209,
+            216
+          ],
+          "text": "安全上の要点",
+          "reading_order": 6
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            221,
+            299,
+            232
+          ],
+          "text": "●定格電圧・電流範囲を超えて、 使用しないでください。",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            232,
+            308,
+            260
+          ],
+          "text": "定格電圧・電流範囲以上の電圧・電流を印加すると、 破裂\nしたり、 焼損したりするおそれがあります。",
+          "reading_order": 8
+        },
+        {
+          "label": "list",
+          "bbox": [
+            45,
+            260,
+            256,
+            289
+          ],
+          "text": "●電圧の極性など、 誤配線をしないでください。\n破裂したり、 焼損したりするおそれがありまず",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            293,
+            294,
+            317
+          ],
+          "text": "●防水仕様ではありませんので、 水がかからないようにし\nてください。",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            45,
+            322,
+            294,
+            332
+          ],
+          "text": "●取り付けに際してはヒータ部がエンドユーザからアクセ",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            332,
+            299,
+            349
+          ],
+          "text": "スできないように配置してください。",
+          "reading_order": 12
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            424,
+            98,
+            496,
+            116
+          ],
+          "text": "使用上の注意",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            116,
+            585,
+            129
+          ],
+          "text": "●定格を超える周囲雰囲気、 環境では使用しないでください。",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            133,
+            585,
+            143
+          ],
+          "text": "本製品の廃棄時には産業廃棄物として廃棄してください。",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            143,
+            585,
+            171
+          ],
+          "text": "●取り付け姿勢: 鉛直(土3°以内)に立てた姿勢でで使用く\nださい。",
+          "reading_order": 16
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            176,
+            585,
+            215
+          ],
+          "text": "● 吸気口を下、 排気口を上にして設置してください。 吸気\n口、 排気口についてはダストの通路を妨げぬよう、 次\nベージに示す通り指定のスペースを確保ください。",
+          "reading_order": 17
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            215,
+            585,
+            243
+          ],
+          "text": "●検出領域を完全に暗い状態に保つように、 レンズ掃除用\nの窓には蒼をしてください。",
+          "reading_order": 18
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            243,
+            567,
+            259
+          ],
+          "text": "●測定開始安定時間は電源投入後約1分後となります。",
+          "reading_order": 19
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            259,
+            585,
+            272
+          ],
+          "text": "●レンズに付着した汚れは乾いた綿棒で拭き取ってください。",
+          "reading_order": 20
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            276,
+            585,
+            304
+          ],
+          "text": "●取り付けに際してはヒータ部がエンドユーザからアクセ\nスできないように配置してください。",
+          "reading_order": 21
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            304,
+            585,
+            331
+          ],
+          "text": "●有機溶剤は、 レンズの特性が変化しますので、 使用しな\nいでください。",
+          "reading_order": 22
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            331,
+            585,
+            376
+          ],
+          "text": "●本製品は静電気などのサージ電圧により、 素子の損傷や\n信頼性低下を起こすことがあります。 取り扱いに際して\nは、 リストバンド・静電気防止手袋を使用し、 静電気対",
+          "reading_order": 23
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            391,
+            585,
+            403
+          ],
+          "text": "電源を印加した状態でコネクタを挿抜しないでください。",
+          "reading_order": 24
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            403,
+            585,
+            416
+          ],
+          "text": "●センサ感度調整用半固定抵抗器には鵷れないでください。",
+          "reading_order": 25
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            420,
+            585,
+            474
+          ],
+          "text": "•本製品に機械的ストレスを加えないでください。 製品に\n損傷を与え、 センサ特性の不良の原因となることが想定\nされます。 また、 御社製品に搭載された状態でこれら不\n具合の発生がないことを十分にで確認ください。",
+          "reading_order": 26
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            474,
+            580,
+            516
+          ],
+          "text": "●本製品の取り扱い時には、 はんだ面リード部、 基板エッ\nジ部などの鋭利な箇所に触れますと、 怪我をする恐れが\nありますので、 こ注意ください。",
+          "reading_order": 27
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            519,
+            585,
+            546
+          ],
+          "text": "●本製品の取り扱い時には、 レンズ表面に傷や汚れが付か\nないようにで注意ください。",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            546,
+            585,
+            574
+          ],
+          "text": "センサ特性の変動要因となる可能性がでざいます。 また、\n氷結・結露の無いようにしてください。",
+          "reading_order": 29
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            574,
+            585,
+            631
+          ],
+          "text": "●コネクタを挿抜する際は、 水平または垂直に行ってくだ\nさい。 上下、 左右、 斜め方向にこじって、 コネクタを挿\n抜しないでください。 コネクタ挿入時は奥まで完全に挿\n入してください。",
+          "reading_order": 30
+        },
+        {
+          "label": "list",
+          "bbox": [
+            334,
+            635,
+            577,
+            663
+          ],
+          "text": "9 落下した製品はこ使用しないでください。 製品に損傷を与\nえ、 センサ特性の不良の原因となることが想定されます。",
+          "reading_order": 31
+        },
+        {
+          "label": "list",
+          "bbox": [
+            330,
+            663,
+            585,
+            689
+          ],
+          "text": "●以下の特性変動を十分評価し使用可能か判断された上で\nこ使用ください。",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            689,
+            587,
+            717
+          ],
+          "text": "(a) 温度特性(本製品を使用する際、 周囲温度に変動がある\n場合、 そのセンサ出力変動)",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            722,
+            586,
+            746
+          ],
+          "text": "(b) 応答特性(本製品を使用する際、 サンプリングタイミン\nグによるセンサ出力変動)",
+          "reading_order": 34
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            750,
+            588,
+            775
+          ],
+          "text": "(c) 氷結・結露状態(本製品を使用する際、 氷結・結露が発\n生した場合、 そのセンサ出力変動)",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            779,
+            587,
+            806
+          ],
+          "text": "これらの特性変動に起因する不具合、 誘発される損害につ\nきましては、 保証の対象から除かれるものとします。",
+          "reading_order": 36
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            83,
+            869,
+            400,
+            887
+          ],
+          "text": "芒精入当社贩壳店 または オムロンFAストア $\\rightarrow$ www.fa.omron.co.jp",
+          "reading_order": 37
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            505,
+            869,
+            558,
+            887
+          ],
+          "text": "OMRON",
+          "reading_order": 38
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            594,
+            866,
+            612,
+            882
+          ],
+          "text": "4",
+          "reading_order": 39
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            469,
+            26,
+            588,
+            44
+          ],
+          "text": "B5W-LD0101-1/2",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            53,
+            98,
+            66
+          ],
+          "text": "外形寸法",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            51,
+            397,
+            66
+          ],
+          "text": "CADデータマークの高晶は、 2次完CAD採面・3次完CADモデルのデータをご用意しています。\nCADデータけ、 www.fa.omron.co.jpからダウンロードができます。",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            540,
+            53,
+            585,
+            65
+          ],
+          "text": "(单位:mm)",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            77,
+            67,
+            89
+          ],
+          "text": "本体",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            89,
+            137,
+            108
+          ],
+          "text": "形B5W-LD0101-1/2",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_005_figure_006.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_005_figure_006.png",
+          "bbox": [
+            48,
+            108,
+            585,
+            359
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            45,
+            385,
+            98,
+            403
+          ],
+          "text": "取付条件",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            411,
+            308,
+            421
+          ],
+          "text": "ダストセンサにおける吸排気口の推奨寸法を以下に示します。",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            421,
+            325,
+            449
+          ],
+          "text": "下図のとおり、 吸気口を下、 排気口を上にして設置してください,\n図示してあるスペースを確保してください。",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/b5w_ld0101_1_2_page_005_figure_010.png)",
+          "figure_path": "figures/b5w_ld0101_1_2_page_005_figure_010.png",
+          "bbox": [
+            128,
+            456,
+            442,
+            770
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            155,
+            770,
+            496,
+            797
+          ],
+          "text": "※前後方向は吸排気口をできるだけセンサケースへ近づけること\n※繪付トルク荷重0.54N・m以下、 M3ねじにてソリのない平面部に取り付けてくだきい。",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            505,
+            869,
+            558,
+            887
+          ],
+          "text": "OMRON",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            594,
+            867,
+            612,
+            887
+          ],
+          "text": "5",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            83,
+            869,
+            400,
+            887
+          ],
+          "text": "芒精入当社贩壳店 または オムロンFAストア $\\rightarrow$ www.fa.omron.co.jp",
+          "reading_order": 14
+        }
+      ]
+    }
+  ]
+}

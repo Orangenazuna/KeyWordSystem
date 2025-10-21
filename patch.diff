@@ -1,0 +1,19 @@
+*** Begin Patch
+*** Update File: synonym_expander.py
+@@
+-                        storage_match = to_storage_term(match_text)
+-                        if storage_match and synonym_store.add(concept.concept_id, storage_match, "md", evidence):
+-                            search_terms[concept.concept_id].add(storage_match)
++                        storage_match = to_storage_term(match_text)
++                        if storage_match and normalize_key(storage_match) != normalize_key(concept.content):
++                            if synonym_store.add(concept.concept_id, storage_match, "md", evidence):
++                                search_terms[concept.concept_id].add(storage_match)
+@@
+-                            storage_candidate = to_storage_term(candidate_clean)
+-                            if storage_candidate and synonym_store.add(concept.concept_id, storage_candidate, "md", evidence):
+-                                search_terms[concept.concept_id].add(storage_candidate)
++                            storage_candidate = to_storage_term(candidate_clean)
++                            if storage_candidate and normalize_key(storage_candidate) != normalize_key(concept.content):
++                                if synonym_store.add(concept.concept_id, storage_candidate, "md", evidence):
++                                    search_terms[concept.concept_id].add(storage_candidate)
+*** End Patch

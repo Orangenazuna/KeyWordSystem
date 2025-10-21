@@ -1,0 +1,1545 @@
+{
+  "source_file": "F:\\KeyWordSystem\\data\\sa404.pdf",
+  "total_pages": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 0
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            38,
+            62,
+            227,
+            80
+          ],
+          "text": "AMR 角度センサ SA404I",
+          "reading_order": 1
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            48,
+            106,
+            71,
+            117
+          ],
+          "text": "概要",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            38,
+            125,
+            469,
+            161
+          ],
+          "text": "SA404I は AMR センサとオペアンプで構成された角度センサです。 磁気ベクトル方向\nに応じて $\\cos 、 \\sin のアナログ信号を出力します。 スリーブ機能を搭載しております。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            161,
+            451,
+            174
+          ],
+          "text": "また DIAG ビン入力による出力確認により、 チップ問の断線故障検出が可能です。",
+          "reading_order": 4
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            48,
+            197,
+            66,
+            215
+          ],
+          "text": "特县",
+          "reading_order": 5
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            221,
+            388,
+            232
+          ],
+          "text": "・AMR センサチップと IC チップを内蔵した $\\cos$ 、 $\\sin 5 \\mathrm{~V}$ 高精度出力",
+          "reading_order": 6
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            240,
+            182,
+            251
+          ],
+          "text": "・スリーブ機能搭載 4uA",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            259,
+            435,
+            270
+          ],
+          "text": "・ダイアグ検出によるAMR-IC 2 チップ問のワイヤオーブン故障検知が可能",
+          "reading_order": 8
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            277,
+            128,
+            289
+          ],
+          "text": "·鉛フリー対応",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            57,
+            295,
+            129,
+            308
+          ],
+          "text": "RoHS 指令準指",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            331,
+            110,
+            349
+          ],
+          "text": "バッケージ",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            358,
+            245,
+            367
+          ],
+          "text": "· SOIC8 4.90mm×5.99mm×1.55mm",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            393,
+            164,
+            404
+          ],
+          "text": "アブリケーション事例",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            57,
+            412,
+            120,
+            430
+          ],
+          "text": "操舵角センサ",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            48,
+            430,
+            146,
+            448
+          ],
+          "text": "·無接点 回転検出",
+          "reading_order": 15
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            48,
+            465,
+            110,
+            483
+          ],
+          "text": "ブロック回路",
+          "reading_order": 16
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_001_figure_017.png)",
+          "figure_path": "figures/sa404_page_001_figure_017.png",
+          "bbox": [
+            48,
+            492,
+            505,
+            779
+          ],
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 18
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 19
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "1",
+          "reading_order": 20
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            39,
+            17,
+            227,
+            53
+          ],
+          "text": "$\\mathrm{R}$ Data Sheet SA404I",
+          "reading_order": 0
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            39,
+            87,
+            110,
+            98
+          ],
+          "text": "■端子機能一覽",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            38,
+            115,
+            308,
+            295
+          ],
+          "text": "<table><tr><td>端子 No.</td><td>記号</td><td>機能</td></tr><tr><td>1</td><td>GND</td><td>GND 端子</td></tr><tr><td>2</td><td>DIAG2</td><td>DIAG 入力 2 端子</td></tr><tr><td>3</td><td>OUT2</td><td>出力 2 端子</td></tr><tr><td>4</td><td>GND</td><td>GND 端子</td></tr><tr><td>5</td><td>VCC</td><td>電源端子</td></tr><tr><td>6</td><td>OUT1</td><td>出力 1 端子</td></tr><tr><td>7</td><td>DIAG1</td><td>DIAG 入力 1 端子</td></tr><tr><td>8</td><td>SLPB</td><td>スリーブ入力端子</td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            37,
+            349,
+            552,
+            510
+          ],
+          "text": "<table><tr><td>项目</td><td>記号</td><td>端子</td><td>条件</td><td>Min</td><td>Max</td><td>单位</td></tr><tr><td>電源電圧</td><td>Vcc</td><td>5</td><td>-</td><td>-0.3</td><td>7</td><td>V</td></tr><tr><td>入力電圧</td><td>Vin</td><td>2, 7, 8</td><td>-</td><td>-0.3</td><td>Vcc</td><td>V</td></tr><tr><td>出力電圧</td><td>Iout</td><td>3, 6</td><td>-</td><td>-10</td><td>10</td><td>mA</td></tr><tr><td>動作温度範圍</td><td>Topr</td><td>-</td><td>-</td><td>-40</td><td>125</td><td>°C</td></tr><tr><td>保存温度範圍</td><td>Tstg</td><td>-</td><td>-</td><td>-40</td><td>140</td><td>°C</td></tr><tr><td>ESD human body model</td><td>-</td><td>-</td><td>-</td><td>± 2</td><td>-</td><td>kV</td></tr><tr><td>ESD charged device model</td><td>-</td><td>-</td><td>-</td><td>± 500</td><td>-</td><td>V</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            39,
+            331,
+            116,
+            349
+          ],
+          "text": "■絶対最大定格",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            39,
+            546,
+            603,
+            609
+          ],
+          "text": "<table><tr><td>項目</td><td>記号</td><td>辨子</td><td>条件</td><td>Min</td><td>Typ</td><td>Max</td><td>单位</td></tr><tr><td>電源電圧範圍</td><td>Vcc</td><td>-</td><td>-</td><td>3.0</td><td>5.0</td><td>5.5</td><td>V</td></tr><tr><td>印可磁束密度</td><td>Bore</td><td>-</td><td>-</td><td>50</td><td>-</td><td>-</td><td>mT</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            48,
+            528,
+            94,
+            546
+          ],
+          "text": "動作条件",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            37,
+            663,
+            604,
+            803
+          ],
+          "text": "<table><tr><td>項目</td><td>記号</td><td>〈 〉 需子</td><td>条件</td><td>Min</td><td>Typ</td><td>Max</td><td>单位</td></tr><tr><td rowspan=\"5\">消費電流</td><td rowspan=\"5\">Icc</td><td rowspan=\"5\">5</td><td>SLPB = Vcc</td><td>3.5</td><td>5.2</td><td>7.2</td><td>mA</td></tr><tr><td>SLPB–DIAG1= Vcc,DIAG2=0V or</td><td rowspan=\"2\">2.7</td><td rowspan=\"2\">3.9</td><td rowspan=\"2\">5.2</td><td rowspan=\"2\">mA</td></tr><tr><td>SLPB–DIAG2= Vcc,DIAG1=0V</td></tr><tr><td>SLPB–DIAG1=DIAG2 = Vcc</td><td>3.3</td><td>4.7</td><td>6.1</td><td>mA</td></tr><tr><td>SLPB = 0V or OPEN</td><td>-</td><td>4</td><td>10</td><td>uA</td></tr><tr><td>出力 Lo 電圧</td><td>V OL</td><td>3, 6</td><td>IOUT=50uA</td><td>-</td><td>15</td><td>35</td><td>mV</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            39,
+            627,
+            110,
+            645
+          ],
+          "text": "■電気的特性",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "2",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            39,
+            25,
+            227,
+            53
+          ],
+          "text": "囚 Data Sheet SA404I",
+          "reading_order": 0
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            37,
+            62,
+            604,
+            656
+          ],
+          "text": "<table><tr><td>項目</td><td>記号</td><td>端子</td><td>条件</td><td>Min</td><td>Typ</td><td>Max</td><td>单位</td></tr><tr><td>出力 Ht 電圧</td><td>V OH</td><td>3, 6</td><td>IOUT→50uA</td><td>4.91</td><td>4.96</td><td>-</td><td>V</td></tr><tr><td>出力電圧</td><td>Vout</td><td>3, 6</td><td>SLPB=Vcc</td><td>0.04 × Vcc</td><td>-</td><td>0.96 × Vcc</td><td>V</td></tr><tr><td>DIAG HH 時出力電圧</td><td>V DOUT</td><td>3, 6</td><td>DIAG1=DIAG2=Vcc</td><td>0.34 × Vcc</td><td>-</td><td>0.65 × Vcc</td><td>V</td></tr><tr><td>SLEEP 時出力電圧</td><td>V SOL</td><td>3, 6</td><td>IOUT→0uA</td><td>-</td><td>0.05</td><td>35</td><td>mV</td></tr><tr><td>出力中心電圧</td><td>V MID</td><td>3, 6</td><td>-</td><td>0.43 × Vcc</td><td>0.50 × Vcc</td><td>0.57 × Vcc</td><td>V</td></tr><tr><td rowspan=\"4\">出力振幅笔圧</td><td rowspan=\"4\">V AMP</td><td rowspan=\"4\">3, 6</td><td>Ta→40°C</td><td>0.26 × Vcc</td><td>0.33 × Vcc</td><td>0.39 × Vcc</td><td>V</td></tr><tr><td>Ta = 25°C</td><td>0.21 × Vcc</td><td>0.25 × Vcc</td><td>0.29 × Vcc</td><td>V</td></tr><tr><td>Ta = 85°C</td><td>0.16 × Vcc</td><td>0.19 × Vcc</td><td>0.23 × Vcc</td><td>V</td></tr><tr><td>Ta = 125°C</td><td>0.12 × Vcc</td><td>0.16 × Vcc</td><td>0.20 × Vcc</td><td>V</td></tr><tr><td rowspan=\"3\">出力振幅笔圧 温度变化率</td><td rowspan=\"3\">⊿TV AMP</td><td rowspan=\"3\">3, 6</td><td>Ta=25°C→−40°C</td><td>-</td><td>30</td><td>-</td><td rowspan=\"3\">%</td></tr><tr><td>Ta=25°C→85°C</td><td>-</td><td>-22</td><td>-</td></tr><tr><td>Ta=25°C→125°C</td><td>-</td><td>-35</td><td>-</td></tr><tr><td>出力振幅笔圧比</td><td>K</td><td>3, 6</td><td>K=V AMP /V AMP 2 ×100</td><td>98</td><td>100</td><td>102</td><td>%</td></tr><tr><td rowspan=\"3\">角度精度</td><td>AIA</td><td>3, 6</td><td>Ta=25°C *1</td><td>-</td><td>±0.20</td><td>±0.35</td><td>deg</td></tr><tr><td rowspan=\"2\">⊿AIA</td><td rowspan=\"2\">3, 6</td><td>Ta=25°C→−40°C, 25°C→85°C *1</td><td>-</td><td>±0.30</td><td>±1.00</td><td>deg</td></tr><tr><td>Ta=25°C→−40°C, 25°C→125°C *1</td><td>-</td><td>-</td><td>±1.58</td><td>deg</td></tr><tr><td>DIAG 入力 アルタウン紙抗</td><td>R ON</td><td>2, 7</td><td>-</td><td>18.5</td><td>22.0</td><td>29.2</td><td>kΩ</td></tr><tr><td>DIAG 入力 関値矩圧</td><td>V DTH</td><td>2, 7</td><td>-</td><td>0.45</td><td>2.5</td><td>3.25</td><td>V</td></tr><tr><td>SLEEP 入力 霜子電流</td><td>ISLPB</td><td>8</td><td>-</td><td>0.05</td><td>0.15</td><td>0.25</td><td>mA</td></tr><tr><td>SLEEP 入力 関値矩圧</td><td>V STH</td><td>8</td><td>-</td><td>0.45</td><td>2.5</td><td>3.25</td><td>V</td></tr><tr><td>電源立ち上がり時間</td><td>T STARTUP</td><td>3, 6</td><td>*2</td><td>-</td><td>-</td><td>1.0</td><td>ms</td></tr><tr><td>出力遲低時間</td><td>T DELAY</td><td>3, 6</td><td>*3</td><td>-</td><td>-</td><td>0.6</td><td>ms</td></tr><tr><td>DIAG 応容時間</td><td>T DIAG</td><td>3, 6</td><td>*4</td><td>-</td><td>-</td><td>0.4</td><td>ms</td></tr><tr><td>SLEEP 応容時間</td><td>TSLPB</td><td>3, 6</td><td>*5</td><td>-</td><td>-</td><td>1.0</td><td>ms</td></tr></table>",
+          "reading_order": 1
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            39,
+            662,
+            523,
+            788
+          ],
+          "text": "* 1 B≧50mT 均一磁場での条件下とする。\n印加磁束密度、 オフセット補正によるキャリブレーションにより変動します。 別逾お問い合わせください。\n* 2 Vcc 最小動作電圧に到達してから VOUT の 99%に達するまでの時間。\nVCC-GND 間コンデンサ容量: 0.15uF 以下。 OUT-GND 間コンデンサ容量: 10 n F 以下。\n* 3 磁界方向が変化してから VOUT が変化後の出力電圧 99%に到達するまでの時間。\n* 4 DIAG 入力電圧が VOTH に到達してから、 VOH が 99%もしくは Vol.が 1%に到達し安定するまでの時間。\n* 5 SLEEP 入力電圧が VSTH に到達してから、 VSOL が 1%に到達し安定するまでの時間。",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "3",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            44,
+            26,
+            75,
+            53
+          ],
+          "text": "18",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            39,
+            62,
+            157,
+            80
+          ],
+          "text": "■入出力状態表 (表 1)",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            38,
+            80,
+            505,
+            136
+          ],
+          "text": "本 IC はスリーブ機能、 センサチップと IC チップ間の断線故障検出を有しています。\n通常使用時は SLPB=Hi を入力してください。 SLPB=Lo の時、 スリーブ状態となります。\nDIAG チェック 1, 2, 3 の各入力に応じた出力結果が得られない場合、 断線故障となります。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            143,
+            128,
+            155
+          ],
+          "text": "表 2.入出力状態表",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            38,
+            161,
+            595,
+            317
+          ],
+          "text": "<table><tr><td colspan=\"3\">入力</td><td colspan=\"2\">出力</td><td rowspan=\"2\">備考</td></tr><tr><td>DIAG1</td><td>DIAG2</td><td>SLPB</td><td>OUT1</td><td>OUT2</td></tr><tr><td>Lo</td><td>Lo</td><td>Hi</td><td>VOUT</td><td>VOUT</td><td>通常使用 器序方向により出力変化</td></tr><tr><td>H</td><td>Lo</td><td>H</td><td>VOH</td><td>VOL</td><td>DIAG チェック 1</td></tr><tr><td>Lo</td><td>H</td><td>H</td><td>VOL</td><td>VOH</td><td>DIAG チェック 2</td></tr><tr><td>H</td><td>H</td><td>H</td><td>VDOUT</td><td>VDOUT</td><td>DIAG チェック 3</td></tr><tr><td>Hi or Lo</td><td>Hi or Lo</td><td>Lo</td><td>VSOL</td><td>VSOL</td><td>スリープ</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            37,
+            317,
+            595,
+            332
+          ],
+          "text": "$\\mathrm{Hi}$ : $\\mathrm{VCC}[\\mathrm{V}] \\quad$ Lo: $0 \\mathrm{~V} \\quad$",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "4",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            44,
+            26,
+            75,
+            53
+          ],
+          "text": "18",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            62,
+            173,
+            80
+          ],
+          "text": "■出力波形と角度精度 AIA",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            80,
+            388,
+            98
+          ],
+          "text": "磁界方向 $\\theta^{\\circ}$ に対し、1 周期 $180^{\\circ}$ の正弦波形を出力します。(図 1)",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            98,
+            523,
+            117
+          ],
+          "text": "OUT1、OUT2 は設計值45° の位相差であり、ATAN 演算をすることで角度を算出できます。",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            125,
+            424,
+            179
+          ],
+          "text": "ATAN 演算結果と理想角度 2 $\\theta$ との差分より算出します。\nAIA $(\\theta)=\\frac{\\operatorname{ATAN}\\left(\\mathrm{V}_{\\mathrm{OUT} 2}(\\theta) / \\mathrm{V}_{\\mathrm{OUT} 1}(\\theta)\\right)}{\\operatorname{ATAN} 演算結果}-\\frac{2 \\theta}{\\mathrm{理想角度}}$",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            197,
+            245,
+            232
+          ],
+          "text": "角度精度 AIA は以下式で定義します。\nAIA = AIA max - AIA m",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_005_figure_007.png)",
+          "figure_path": "figures/sa404_page_005_figure_007.png",
+          "bbox": [
+            48,
+            286,
+            317,
+            439
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_005_figure_008.png)",
+          "figure_path": "figures/sa404_page_005_figure_008.png",
+          "bbox": [
+            325,
+            304,
+            586,
+            439
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_005_figure_009.png)",
+          "figure_path": "figures/sa404_page_005_figure_009.png",
+          "bbox": [
+            46,
+            456,
+            317,
+            600
+          ],
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            636,
+            551,
+            654
+          ],
+          "text": "図 1.出力波形例(左上図)、AIA( $\\theta$ ) 算出結果例(左下図)、PKGと磁界方向の関係(右上図)",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "5",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            62,
+            158,
+            80
+          ],
+          "text": "■センサチップ実装誤差",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            80,
+            505,
+            116
+          ],
+          "text": "センサチップは実装時の誤差成分 $\\theta$ err が発生します。実装誤差は±1 $1^{\\circ}$ になります(図 2)\nATAN 演算結果がシフトします。",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_006_figure_003.png)",
+          "figure_path": "figures/sa404_page_006_figure_003.png",
+          "bbox": [
+            57,
+            143,
+            523,
+            573
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            218,
+            600,
+            415,
+            618
+          ],
+          "text": "図 2.センサチップの実装誤差成分 $\\theta \\mathrm{er}$",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            30,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "6",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_007_figure_000.png)",
+          "figure_path": "figures/sa404_page_007_figure_000.png",
+          "bbox": [
+            39,
+            17,
+            75,
+            53
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            94,
+            80
+          ],
+          "text": "外形寸法",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_007_figure_003.png)",
+          "figure_path": "figures/sa404_page_007_figure_003.png",
+          "bbox": [
+            44,
+            98,
+            567,
+            698
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "7",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            44,
+            26,
+            227,
+            53
+          ],
+          "text": "18 Data Sheet SA404I",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            62,
+            155,
+            80
+          ],
+          "text": "■推奨ランドバターン",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_008_figure_002.png)",
+          "figure_path": "figures/sa404_page_008_figure_002.png",
+          "bbox": [
+            48,
+            98,
+            263,
+            349
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            430,
+            75,
+            443
+          ],
+          "text": "捺印",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_008_figure_004.png)",
+          "figure_path": "figures/sa404_page_008_figure_004.png",
+          "bbox": [
+            48,
+            465,
+            388,
+            689
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            48,
+            733,
+            506,
+            774
+          ],
+          "text": "<table><tr><td>製品識別番号 1</td><td>製品識別アルファベット</td><td>東海理化品番 (上 6 桁)</td></tr><tr><td>404</td><td>I</td><td>616404</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "8",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            26,
+            220,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            62,
+            111,
+            80
+          ],
+          "text": "■リフロー条件",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            39,
+            80,
+            220,
+            98
+          ],
+          "text": "リフロー推奨条件を示します。(図 3",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/sa404_page_009_figure_003.png)",
+          "figure_path": "figures/sa404_page_009_figure_003.png",
+          "bbox": [
+            39,
+            106,
+            370,
+            286
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            101,
+            313,
+            218,
+            331
+          ],
+          "text": "図 3.リフロー推奨条件",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "9",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            84,
+            33,
+            219,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            138,
+            80
+          ],
+          "text": "使用上の注意事項",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            89,
+            112,
+            98
+          ],
+          "text": "1.絶対最大定格",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            107,
+            541,
+            137
+          ],
+          "text": "印加電圧、 動作温度範囲を超えた場合は破壊、 劣化に至る可能性があります。 使用を超えない範囲でのご使用を\nお願いします。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            143,
+            119,
+            161
+          ],
+          "text": "2.ビン間ショート",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            55,
+            161,
+            415,
+            179
+          ],
+          "text": "導電性異物などによるビン間ショートが発生した場合破壊に至る可能性があります。",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            185,
+            110,
+            197
+          ],
+          "text": "3.基板上の応力",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            204,
+            263,
+            215
+          ],
+          "text": "AMR センサは応力によって抵抗值が変化します",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            224,
+            541,
+            234
+          ],
+          "text": "基板上で発生する応力によりセンサ出力に歪みが発生する場合があります。 実使用状態での確認をお願いします。",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            241,
+            139,
+            252
+          ],
+          "text": "4.マグネット設置位置",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            56,
+            259,
+            524,
+            272
+          ],
+          "text": "マグネット中心とセンサ中心位置を合わせるように設計をお願いします。 精度が得られない可能性があります",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            277,
+            594,
+            313
+          ],
+          "text": "またマグネットのサイズが小さいなど、センサが受ける磁界ベクトルが均一方向でない場合、精度が得られない可能性があり\nます。",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            319,
+            93,
+            331
+          ],
+          "text": "5.防湿橱包",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            339,
+            370,
+            349
+          ],
+          "text": "防湿梱包開封前は、 5〜40°C85%RH6 か月以内にて保管をお願いします。",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            358,
+            379,
+            368
+          ],
+          "text": "防湿梱包開封後は 5〜40°C60%RH 以下 1 か月以内にて保管をお願いします",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            376,
+            487,
+            387
+          ],
+          "text": "超過した場合は、 ベーキング処理をお願いします。 条件は 60±5°C 24 時間(上限 4 回)として下さい。",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            394,
+            93,
+            405
+          ],
+          "text": "5.外乱磁塌",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            412,
+            460,
+            425
+          ],
+          "text": "外乱磁場により、検出対象の磁界ベクトルの方向が変わり角度精度が劣化する恐れがあります。",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            430,
+            84,
+            448
+          ],
+          "text": "7.静電氣",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            56,
+            448,
+            567,
+            483
+          ],
+          "text": "本製品含む半導製品は静電気が印加されると破壊、 劣化の可能性があります。 工程内で過大な電圧が印加されないよう\nに静電気対策の検討をお願いします。",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            492,
+            93,
+            501
+          ],
+          "text": "8.使用用途",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            510,
+            594,
+            559
+          ],
+          "text": "本製品は高水準な信頼性が要求される航空機器、 原子力装置、 人体の生命を維持するための医療機器など故障により重大な損\n害が発生する可能性を含む用途に使用する場合は、 事前に当社にご相談ください。 事前の承諾なく使用することで発生した損害\n尊に関し、 当社は一切の責任を負いません。",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            564,
+            110,
+            582
+          ],
+          "text": "耐放射線設計",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            588,
+            245,
+            600
+          ],
+          "text": "本製品は耐放射設計には対応しておりません",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            607,
+            164,
+            618
+          ],
+          "text": "10.外国為替及び外国貿易法",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            626,
+            585,
+            636
+          ],
+          "text": "リスト規制に関する調査は必要に応じてお問い合わせをお願いします。また本製品は軍事的目的での設計はなされておらず",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            645,
+            173,
+            654
+          ],
+          "text": "また使用はしないでくだきい",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            663,
+            129,
+            673
+          ],
+          "text": "11 製品の環境適合",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            680,
+            388,
+            693
+          ],
+          "text": "適用される環境法令をお客様でご確認の上、当社までお問合せをお願いします",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            698,
+            110,
+            713
+          ],
+          "text": "12 改造、 複製",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            722,
+            236,
+            734
+          ],
+          "text": "本製品の改造、 複製はしないでください。",
+          "reading_order": 30
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 31
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 32
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            585,
+            833
+          ],
+          "text": "14",
+          "reading_order": 33
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "tab",
+          "bbox": [
+            48,
+            80,
+            597,
+            779
+          ],
+          "text": "<table><tr><td>Rev.</td><td>日付</td><td colspan=\"4\">内容</td></tr><tr><td>0.0</td><td>2022.07.22</td><td colspan=\"4\">DRAFT 版発行</td></tr><tr><td rowspan=\"20\">1.0</td><td rowspan=\"20\">2023.06.15</td><td colspan=\"4\">• 各ページ上部 タイトルロゴ追加</td></tr><tr><td colspan=\"4\">• 特兵</td></tr><tr><td colspan=\"4\">/RoHS 指令準模 追記</td></tr><tr><td colspan=\"4\">• アプリケーション事例</td></tr><tr><td colspan=\"4\">/ステアリングアングルセンサから操舵角センサー呼称変更</td></tr><tr><td colspan=\"4\">• プロック図</td></tr><tr><td colspan=\"4\">/プロック図修正</td></tr><tr><td colspan=\"4\">• 電気的特性</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"20\">1.0</td><td rowspan=\"20\">2023.06.15</td><td colspan=\"4\">• 各ページ上部 タイトルロゴ追加</td></tr><tr><td colspan=\"4\">• アロック図修正</td></tr><tr><td colspan=\"4\">• アプリケーション事例</td></tr><tr><td colspan=\"4\">/ステアリングアングルセンサから操舵角センサー呼称変更</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• 電気的特性</td></tr><tr><td colspan=\"4\">/Hカライトルロボーズ</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">• プロック図修正</td></tr><tr><td colspan=\"4\">了ロック図修正</td></tr><tr><td colspan=\"4\">了ロック図修正</td></tr><tr><td>• プロップ――――――――――",
+          "reading_order": 0
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            84,
+            33,
+            219,
+            46
+          ],
+          "text": "Data Sheet SA4041",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            38,
+            824,
+            200,
+            851
+          ],
+          "text": "Tokai rika Co,Ltd. All rights reserved\nRev. 1.0\n2023.06.15",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            244,
+            824,
+            370,
+            851
+          ],
+          "text": "18 TOKAI RIKA",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            824,
+            586,
+            833
+          ],
+          "text": "11",
+          "reading_order": 4
+        }
+      ]
+    }
+  ]
+}

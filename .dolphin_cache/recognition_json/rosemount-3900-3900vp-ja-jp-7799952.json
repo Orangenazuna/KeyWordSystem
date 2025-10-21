@@ -1,0 +1,4065 @@
+{
+  "source_file": "F:\\KeyWordSystem\\data\\rosemount-3900-3900vp-ja-jp-7799952.pdf",
+  "total_pages": 24,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            499,
+            35,
+            633,
+            80
+          ],
+          "text": "製品データシート\n\n00813-0104-3900, Rev AC\n\n2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            87,
+            391,
+            120
+          ],
+          "text": "Rosemount $^{TM}$ 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            125,
+            239,
+            153
+          ],
+          "text": "汎用 $\\mathrm{pH} / \\mathrm{ORP}$ センサ",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_001_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_001_figure_003.png",
+          "bbox": [
+            105,
+            188,
+            606,
+            483
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            528,
+            334,
+            546
+          ],
+          "text": "お客様のプロセス pH/ORP ニーズに応える高性能",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            555,
+            633,
+            585
+          ],
+          "text": "Rosemount 3900 および 3900VP pH/ORP の組み合わせセンサは、 パイプライン、 開放タンク、 または池\nの水溶液の信頼性の高いpH または酸化還元電位の測定に使用されます。 堅牢な設計により 、",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            585,
+            535,
+            600
+          ],
+          "text": "Rosemount 3900 および 3900VP のセンサは、 幅広い用途で使用することができます。",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            833,
+            194,
+            851
+          ],
+          "text": "ROSEMOUNT",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            526,
+            833,
+            651,
+            853
+          ],
+          "text": "EMERSON",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            216,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            107,
+            105,
+            129
+          ],
+          "text": "概要",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            152,
+            140,
+            161
+          ],
+          "text": "堅牢なセンサ設計",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_002_figure_004.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_002_figure_004.png",
+          "bbox": [
+            69,
+            179,
+            347,
+            286
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "list",
+          "bbox": [
+            364,
+            170,
+            609,
+            188
+          ],
+          "text": "を用いたセンサ寿命の延長と被毒イオンに対する保護",
+          "reading_order": 5
+        },
+        {
+          "label": "list",
+          "bbox": [
+            364,
+            188,
+            625,
+            216
+          ],
+          "text": "ひび割れ耐性を持つガラスを採用することで、 高性能化と\n長寿命化を実現。",
+          "reading_order": 6
+        },
+        {
+          "label": "list",
+          "bbox": [
+            364,
+            224,
+            615,
+            250
+          ],
+          "text": "堅牢なポリフェニレンスルファイド製のボディによって\n最高の耐薬品性を実現。",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            364,
+            250,
+            517,
+            268
+          ],
+          "text": "氷点下-10.0°C までの温度で動作",
+          "reading_order": 8
+        },
+        {
+          "label": "list",
+          "bbox": [
+            364,
+            276,
+            481,
+            286
+          ],
+          "text": "高度な診断を可能にする。",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            313,
+            158,
+            331
+          ],
+          "text": "多彩な設置オブション",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            77,
+            337,
+            544,
+            349
+          ],
+          "text": "センサ本体は、前面および背面の両方に向いたプロセススレッドを備えた一体構造を特徴としています",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            78,
+            357,
+            633,
+            379
+          ],
+          "text": "タインチと 1 インチのオスの米国管用ネジ (MNPT) プロセス接続を使用して、 さまざまな用途に対する設置要件を満たし\nます。",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            77,
+            385,
+            633,
+            412
+          ],
+          "text": "Variopol (VP8) ケーブル接続オブションは、 ケーブルからセンサへの迅速な取り外しを可能にし、 ケーブルのねじれを解\n消します。",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            421,
+            149,
+            433
+          ],
+          "text": "SMART スリアンズ",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            77,
+            439,
+            409,
+            456
+          ],
+          "text": "Rosemount 伝送器による $\\mathrm{pH}$ センサの自動認識: 1066、1057、1056、56",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            77,
+            456,
+            633,
+            487
+          ],
+          "text": "pH校正データが保存されるため、現場で「プラグアンドブレイ」で設置するためにセンサを事前に校正しておくことがで\nきます。",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            689,
+            87,
+            707
+          ],
+          "text": "目次",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            707,
+            633,
+            723
+          ],
+          "text": "概要…… 2",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            731,
+            633,
+            743
+          ],
+          "text": "注文情報…… 3",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            749,
+            633,
+            761
+          ],
+          "text": "付属部品…… 6",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            767,
+            633,
+            779
+          ],
+          "text": "仕様……7",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            785,
+            633,
+            797
+          ],
+          "text": "Rosemount pH/ORP センサ製品認証…… 8",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            797,
+            633,
+            815
+          ],
+          "text": "寸法図および設置図…… 13",
+          "reading_order": 23
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            69,
+            855
+          ],
+          "text": "2",
+          "reading_order": 24
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 25
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            53,
+            123,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            472,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            89,
+            150,
+            117
+          ],
+          "text": "注文情報",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_003_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_003_figure_003.png",
+          "bbox": [
+            60,
+            143,
+            239,
+            250
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            347,
+            143,
+            633,
+            250
+          ],
+          "text": "Rosemount 3900 および 3900VP 汎用 pH/ORP センサは、 耐薬\n品性に優れた Ryton® プラスチックのボディに加え、 高度な診\n断を可能にする内蔵の溶液グランドと、 温度補償用の Pt-100\n測温抵抗体 (RTD) を搭載しています。 これらのセンサは、 一\n体型ケーブル接続 (Rosemount 3900) または Variopol\n(VP8) コネクク (Rosemount3900VP) のいずれかとともに利\n用できます。 Variopol ケーブルは別売りです (付属部品を参\n照)。",
+          "reading_order": 4
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            51,
+            286,
+            249,
+            304
+          ],
+          "text": "Rosemount 3900 注文情報",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            322,
+            69,
+            331
+          ],
+          "text": "注",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            331,
+            633,
+            386
+          ],
+          "text": "Rosemount3900pH/ORPセンサは、 高度な診断用の溶液グランドを内藏した Ryton®プラスチックボディに収容されています。\n温度補正装置用に Pt-100 が提供されています。 このセンサーは、 一体型ケーブルと一緒に購入可能です。 どちらも別売りのプ\nロセスコネクタを使用してセンサを取り付けることが可能です。 送信機に一体型プリアンプがない場合は、 ブリアンプ付きの\nジャンクションボックスキットを個別に注文することも可能です。",
+          "reading_order": 7
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            51,
+            403,
+            96,
+            421
+          ],
+          "text": "モデル",
+          "reading_order": 8
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            421,
+            633,
+            466
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>3900</td><td>汎用 pH/ORPセンサ</td></tr></table>",
+          "reading_order": 9
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            51,
+            483,
+            194,
+            501
+          ],
+          "text": "プリアンプのオブション",
+          "reading_order": 10
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            501,
+            633,
+            672
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>01</td><td>SMART ブリアンプ、 酸化遗元電位 (ORP) と併用する場合は 10 m ケーブル (1)</td></tr><tr><td>02</td><td>アンプなし、 5 mケーブル)</td></tr><tr><td>04</td><td>SMART ブリアンプ、 15 mケーブル (1)</td></tr><tr><td>05</td><td>SMART ブリアンプ、 20 mケーブル (1)</td></tr><tr><td>06</td><td>SMART ブリアンプ、 30 mケーブル (1)</td></tr><tr><td>07</td><td>ブリアンプなし、 1 mケーブル</td></tr><tr><td>08</td><td>ブリアンプなし、 3 mケーブル</td></tr></table>",
+          "reading_order": 11
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            51,
+            672,
+            149,
+            683
+          ],
+          "text": "(1) 標準不行為之。",
+          "reading_order": 12
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            51,
+            707,
+            123,
+            725
+          ],
+          "text": "測定コード",
+          "reading_order": 13
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            725,
+            633,
+            790
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>10</td><td>汎用低抵抗(GPLR)pHガラス(0 ~ 14 pH)</td></tr><tr><td>12</td><td>白金酸化還元電位(ORP)</td></tr></table>",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            842,
+            633,
+            855
+          ],
+          "text": "3",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            89,
+            239,
+            107
+          ],
+          "text": "校正証明書・オブションレベル",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            114,
+            633,
+            197
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>CC</td><td>校正証明書(デストデータなし)</td></tr><tr><td>LC</td><td>ループ校正証明書(センサおよびトランスミッターは、デストデータを用いて枚正されています)</td></tr><tr><td>EC</td><td>エレクトロニック校正証明書(センサは、デストデータを用いて工場の機器と照らし合わせて枚正されています)</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            69,
+            855
+          ],
+          "text": "4",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            96,
+            268,
+            116
+          ],
+          "text": "Rosemount 3900VP 注文情報",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            143,
+            96,
+            153
+          ],
+          "text": "モデル",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            161,
+            633,
+            206
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>3900VP</td><td>Variopolコネクタ付汎用 pH/ORPセンサ</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            224,
+            194,
+            235
+          ],
+          "text": "プリアンプのオブション",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            241,
+            633,
+            304
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>01</td><td>SMART ブリアンプ(1)</td></tr><tr><td>02</td><td>ブリアンプなし</td></tr></table>",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            304,
+            303,
+            318
+          ],
+          "text": "(1) 酸化逐元電位(ORP) で使用する場合は標準プリアンフ",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            340,
+            123,
+            358
+          ],
+          "text": "測定コード",
+          "reading_order": 8
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            358,
+            633,
+            424
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>10</td><td>汎用低抵抗 (GPLR) pH ガラス (0 ~ 14 pH)</td></tr><tr><td>12</td><td>白金酸化選元電位 (ORP)</td></tr></table>",
+          "reading_order": 9
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            439,
+            230,
+            456
+          ],
+          "text": "校正証明書-オブションレベル",
+          "reading_order": 10
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            463,
+            633,
+            546
+          ],
+          "text": "<table><tr><td>コード</td><td>説明</td></tr><tr><td>CC</td><td>校正証明書(テストデータなし)</td></tr><tr><td>LC</td><td>ループ校正証明書(センサおよびトランスミッターは、 テストデータを用いて校正されています)</td></tr><tr><td>EC</td><td>エレクトロニック校正証明書(センサは、 テストデータを用いて工場の機器と照らし合わせて校正されています)</td></tr></table>",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            842,
+            633,
+            855
+          ],
+          "text": "5",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            44,
+            216,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            89,
+            149,
+            117
+          ],
+          "text": "付属部品",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            134,
+            633,
+            621
+          ],
+          "text": "<table><tr><td>部品香号</td><td>説明</td></tr><tr><td>11275-01</td><td>手すり取り付け部品</td></tr><tr><td>12707-00</td><td>ジェット嗜霧えクリーナー</td></tr><tr><td>2002011</td><td>塩素化ボリ塩化ビニル製フルースルーティーと11⁄2インチ米国管用ネジ (NPT) プロセス接続</td></tr><tr><td>23242-02</td><td>取り付けアダブター、11⁄2インチ 差し込み部品、1x34インチ</td></tr><tr><td>23555-00</td><td>検索箱、ブリアンプと互換性のある Rosemount 54/5081/1055/Xmt</td></tr><tr><td>24091-00</td><td>出口および入り口が14-インチの低流量セル</td></tr><tr><td>33894-00</td><td>1インチ低流量セルの NPTねじアダブタ</td></tr><tr><td>24281-00</td><td>4.57 mW 8ケーブル</td></tr><tr><td>24281-01</td><td>7.62 mW 8ケーブル</td></tr><tr><td>24281-02</td><td>0.762 mW 8ケーブル</td></tr><tr><td>24281-03</td><td>15.24 mW 8ケーブル</td></tr><tr><td>24281-04</td><td>30.48 mW 8ケーブル</td></tr><tr><td>24281-05</td><td>1.22 mW 8ケーブル</td></tr><tr><td>24281-06</td><td>3.05 mW 8ケーブル</td></tr><tr><td>24281-07</td><td>6.10 mW 8ケーブル</td></tr><tr><td>24281-08</td><td>9.14 mW 8ケーブル</td></tr><tr><td>9200273</td><td>1 フィート当たり 11 のコンジット、シールド付き、即席の拡張ケーブル</td></tr><tr><td>9210012</td><td>pH 4.01、453.6 g</td></tr><tr><td>9210013</td><td>pH 6.86、453.6 g</td></tr><tr><td>9210014</td><td>pH 9.18、453.6 g</td></tr><tr><td>00390-7101-0001</td><td>低流量パネル</td></tr><tr><td>R508-8OZ</td><td>酸化選元電位(ORP)キャリブレーション基準 460 ± 10mV</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            69,
+            860
+          ],
+          "text": "6",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            89,
+            105,
+            117
+          ],
+          "text": "仕樣",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            152,
+            633,
+            323
+          ],
+          "text": "<table><tr><td>pH 範圍</td><td>直陳性</td></tr><tr><td>0∼7</td><td>97%</td></tr><tr><td>1∼7</td><td>98%</td></tr><tr><td>4∼7</td><td>98%</td></tr><tr><td>7∼10</td><td>99%</td></tr><tr><td>7∼12</td><td>97%</td></tr><tr><td>7∼13</td><td>96%</td></tr><tr><td>7∼14</td><td>95%</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            134,
+            212,
+            152
+          ],
+          "text": "表1:pH範囲に対する直線性(%)",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            349,
+            633,
+            801
+          ],
+          "text": "<table><tr><td colspan=\"2\">测定範围</td></tr><tr><td>pH</td><td>0~14</td></tr><tr><td>酸化遗元電位(ORP)</td><td>-1500 ~ +1500 mV</td></tr><tr><td colspan=\"2\">勤作温度</td></tr><tr><td colspan=\"2\">-10 °C 100 °C まで、自動温度補正-10 °C 〜 100 °C</td></tr><tr><td colspan=\"2\">最大压力</td></tr><tr><td colspan=\"2\">689.5 kPa @ 100 °C</td></tr><tr><td colspan=\"2\">CRN 泽庙: 413.7 kPa 最大 100 °C</td></tr><tr><td colspan=\"2\">構造部の材料</td></tr><tr><td>センサ木体</td><td>Ryton®:ポリフェニレンサルファイド(PPS)</td></tr><tr><td>O リング</td><td>EPDM</td></tr><tr><td>pH電極</td><td>ガラス</td></tr><tr><td>ORP 電極</td><td>ガラス、ブラチナ</td></tr><tr><td>溶液グランド</td><td>ステンレス網</td></tr><tr><td>基準核点</td><td>PTFE</td></tr><tr><td colspan=\"2\">電導度</td></tr><tr><td colspan=\"2\">低流量パネルで使用される膜、最低電導度である 0.1 μS/cm での pHの変化に反応します。サンプルの流量は 1 時間あたり 2gal に制御する必要があります。</td></tr><tr><td colspan=\"2\">プロセス接続部</td></tr><tr><td>前面仕上げ面</td><td>34インチと 1 インチのオス来国管用ネジ(MNPT)</td></tr><tr><td>背面仕上げ面</td><td>1インチMNPT</td></tr><tr><td colspan=\"2\">温度補償</td></tr><tr><td colspan=\"2\">Pt-100</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            331,
+            302,
+            349
+          ],
+          "text": "表 2: Rosemount 3900/3900VP pH/ORP 七ンサの仕様",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            842,
+            633,
+            855
+          ],
+          "text": "7",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            107,
+            633,
+            228
+          ],
+          "text": "<table><tr><td colspan=\"2\">ケーブル</td></tr><tr><td>3900</td><td>プリアンプ内蔵の場合の各種ケーブル長(ブリアンプのオブション参照) ;ブリアンプなしの場合は 4.57 m 以下</td></tr><tr><td>3900VP</td><td>24281-XX を使用、 0.762 m〜30.48 m。 付属部品を参照。</td></tr><tr><td colspan=\"2\">重量積荷重量</td></tr><tr><td rowspan=\"2\" colspan=\"2\">0.5 kg/0.9 kg</td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            51,
+            89,
+            329,
+            107
+          ],
+          "text": "表 2 : Rosemount 3900/3900VP pH/ORP センサの仕様 (続き",
+          "reading_order": 3
+        },
+        {
+          "label": "title",
+          "bbox": [
+            51,
+            250,
+            418,
+            277
+          ],
+          "text": "Rosemount pH/ORP センサ製品認証",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            295,
+            87,
+            306
+          ],
+          "text": "Rev 0.",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            340,
+            150,
+            358
+          ],
+          "text": "欧州指令情報",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            367,
+            633,
+            394
+          ],
+          "text": "EU 適合宣言書の写しは、 クイック・スタート・ガイドの最後にあります。 EU 適合宣言書の最新版は Emerson.com/Rosemount\nをご覧ください。",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            421,
+            302,
+            441
+          ],
+          "text": "通常の場所での使用に関する認証",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            448,
+            633,
+            475
+          ],
+          "text": "標準として、伝送器はその設計が基本的な電気的、機械的、および防火要件を設計が満たしていることを確認するために、連\n邦労働安全衛生局(OSHA)の認定を受けた国家認定試験機関(NRTL)によって検査および試験されます。",
+          "reading_order": 9
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            510,
+            203,
+            528
+          ],
+          "text": "北米での機器の設置",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            528,
+            633,
+            573
+          ],
+          "text": "米国電気工事規程®(NEC)およびカナダ電機規定(CEC)では、ディビジョンのマーキングがついた装置のゾーン内での使用\nと、ゾーンのマークがついた装置のディビジョンでの使用が許可されています。そのマーキングは、地域分類、ガス、温度クラ\nスに適合していなければなりません。この情報はそれぞれの規定に明確に定義されています。",
+          "reading_order": 11
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            600,
+            89,
+            619
+          ],
+          "text": "米国",
+          "reading_order": 12
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            51,
+            645,
+            131,
+            657
+          ],
+          "text": "FM 本質安全",
+          "reading_order": 13
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            663,
+            553,
+            770
+          ],
+          "text": "<table><tr><td>認定書</td><td>FM17US0198X</td></tr><tr><td>規格</td><td>FM クラス 3600:1998、 FM クラス 3610:2010、 FM クラス 3611: 2004、 FM クラス 3810: 2005</td></tr><tr><td rowspan=\"4\">マーキング</td><td>IS/I,II,III/1/ABCDEFG/T6 Ta = −20 °C 〜 60 °C</td></tr><tr><td>I/0/AEx ia IIC/T6 Ta = −20 °C 〜 60 °C</td></tr><tr><td>NI/I/2/ABCD/T6 Ta = −20 °C 〜 60 °C</td></tr><tr><td>S/II,III/2/EFG/T6 Ta = −20 °C 〜 60 °C</td></tr></table>",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            779,
+            212,
+            797
+          ],
+          "text": "安全な使用のための特定条件 $(\\mathbf{X})$",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            797,
+            275,
+            815
+          ],
+          "text": "1.モデル 1700702 プリアンプ付きセンサ:",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            69,
+            855
+          ],
+          "text": "8",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            472,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            89,
+            302,
+            107
+          ],
+          "text": "a. モデル 385+-a-b-c. 3 接点 pH/ORP セン+",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            116,
+            293,
+            127
+          ],
+          "text": "b.モデル 389-a-b-c-d-e. pH/ORP センサ",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            134,
+            293,
+            148
+          ],
+          "text": "c. モデル 389VP-a-b-c-d. pH/ORP センサ",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            152,
+            338,
+            170
+          ],
+          "text": "d. モデル 396VP-a-b-c-d. 浸漬/挿入 $\\mathrm{pH} / \\mathrm{ORP}$ センサ",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            178,
+            339,
+            189
+          ],
+          "text": "e. モデル 396P-a-b-c-d-e. 浸漬/挿入pH/ORP センサ",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            112,
+            197,
+            355,
+            209
+          ],
+          "text": "f. モデル 396PVP-a-b-c-d-e. 浸漬/挿入 pH/ORP センサ",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            215,
+            427,
+            232
+          ],
+          "text": "g. モデル 396RVP-a-b-c-d-e. リトラクション/浸漬/挿入 pH/ORP センサ",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            240,
+            311,
+            251
+          ],
+          "text": "h. モデル 398RVP-a-b-c-d-e-f.pH/ORP センサ",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            259,
+            302,
+            271
+          ],
+          "text": "i. モデル 3200HP-00.高純度水 pH センサ",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            277,
+            373,
+            295
+          ],
+          "text": "j. モデル 3300HTVP-a-b-c-d. 高性能 pH および ORP センサ",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            295,
+            382,
+            313
+          ],
+          "text": "k. モデル 3400HTVP-a-b-c-d-e. 高性能 pH および ORP センサ",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            322,
+            338,
+            333
+          ],
+          "text": "I. 3500P-a-b-c-d-e-f. 高性能 pH および ORP センサ",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            340,
+            347,
+            353
+          ],
+          "text": "m.3500VP-a-b-c-d-e-f.高性能pHおよびORP センサ",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            358,
+            302,
+            376
+          ],
+          "text": "n. モデル 3900-a-b-c. 汎用 $\\mathrm{pH} / \\mathrm{ORP}$ センサ",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            384,
+            302,
+            395
+          ],
+          "text": "0. モデル 3900VP-a-b. 汎用 pH/ORP センサ",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            403,
+            633,
+            430
+          ],
+          "text": "上記のすべての装置のボリマー表面は、静電気を蓄えて発火源となる可能性があります。 表面の清掃は、 湿らせた布で\n行ってください。",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            438,
+            365,
+            448
+          ],
+          "text": "2. モデル 1700702 ブリアンプなしセンサ (シンプルな装置):",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            453,
+            329,
+            465
+          ],
+          "text": "a. モデル 385-a-b-c-d-e. 格納式 pH/ORP センサ",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            112,
+            473,
+            302,
+            484
+          ],
+          "text": "。 モデル 385+-a-b-c 3 接点 pH/ORP センサ",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            114,
+            492,
+            293,
+            505
+          ],
+          "text": ":.モデル 389-a-b-c-d-e. pH/ORP センサ",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            510,
+            284,
+            525
+          ],
+          "text": "1. モデル 389VP-a-b-c. pH/ORP センサ",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            110,
+            535,
+            302,
+            546
+          ],
+          "text": "e. モデル 396-a-b-c. 浸漬/挿入 pH センサ",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            112,
+            555,
+            302,
+            567
+          ],
+          "text": "f. モデル 396VP-a-b. 浸漬/挿入 pH センサ",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            573,
+            339,
+            587
+          ],
+          "text": "3. モデル 396P-a-b-c-d-e. 浸漬/挿入 pH/ORP センサ",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            591,
+            347,
+            609
+          ],
+          "text": "1. モデル 396PVP-a-b-c-d. 浸漬/挿入 pH/ORP センサ",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            617,
+            418,
+            628
+          ],
+          "text": "i. モデル 396R-a-b-c-d-e. リトラクション|浸漬/押入 pH/ORP センサ",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            636,
+            418,
+            654
+          ],
+          "text": "j. モデル 396RVP-a-b-c-d. リトラクション/浸漬/挿入pH/ORP センサ",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            111,
+            654,
+            266,
+            672
+          ],
+          "text": "k. モデル 397-a-b-c-d-e. pH センサ",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            114,
+            679,
+            293,
+            690
+          ],
+          "text": "1. モデル 398-a-b-c-d-e. pH/ORP センサ",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            698,
+            284,
+            711
+          ],
+          "text": "m. モデル 398VP-a-b-c. pH/ORP センサ",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            716,
+            302,
+            734
+          ],
+          "text": "n. モデル 398R-a-b-c-d-e-f. pH/ORP センサ",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            741,
+            311,
+            752
+          ],
+          "text": "0. モデル 398RVP-a-b-c-d-e-f.pH/ORP センサ",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            110,
+            761,
+            302,
+            773
+          ],
+          "text": "p. モデル 3200HP-00.高純度水 pH センサ",
+          "reading_order": 34
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            779,
+            355,
+            793
+          ],
+          "text": "q. モデル 3300HT-a-b-c-d. 高性能 $\\mathrm{pH}$ および ORP セン",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            112,
+            803,
+            373,
+            815
+          ],
+          "text": "r. モデル 3300HTVP-a-b-c-d. 高性能 pH および ORP センサ",
+          "reading_order": 36
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 37
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            842,
+            633,
+            855
+          ],
+          "text": "9",
+          "reading_order": 38
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            44,
+            216,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            89,
+            382,
+            107
+          ],
+          "text": "s. モデル 3400HT-a-b-c-d-e-f. 高性能 $\\mathrm{pH}$ および ORP センサ",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            112,
+            116,
+            391,
+            127
+          ],
+          "text": "t. モデル 3400HTVP-a-b-c-d-e-f. 高性能 pH および ORP センサ",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            134,
+            365,
+            152
+          ],
+          "text": "u. モデル 3500P-a-b-c-d-e-f. 高性能 $\\mathrm{pH}$ および ORP セン+",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            152,
+            374,
+            170
+          ],
+          "text": "v. モデル 3500VP-a-b-c-d-e-f. 高性能 $\\mathrm{pH}$ および ORP センサ",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            178,
+            391,
+            189
+          ],
+          "text": "w. モデル 3800-a. オートクレープおよび蒸気滅菌式pH センザ",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            197,
+            400,
+            209
+          ],
+          "text": "x. モデル 3800VP-a. オートクレーブおよび蒸気滅菌式pH セン+",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            111,
+            215,
+            302,
+            232
+          ],
+          "text": "y.モデル 3900-a-b-c. 汎用 pH/ORP センサ",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            105,
+            240,
+            302,
+            251
+          ],
+          "text": "ž. モデル 3900VP-a-b. 汎用 pH/ORP センサ",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            259,
+            633,
+            281
+          ],
+          "text": "上記のすべての装置のボリマー表面は、 静電気を蓄えて発火源となる可能性があります。 表面の清掃は、 湿らせた布で\n行ってくだきい。",
+          "reading_order": 10
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            304,
+            140,
+            322
+          ],
+          "text": "CSA 本質安全",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            331,
+            158,
+            342
+          ],
+          "text": "認定書 70164066",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            349,
+            606,
+            386
+          ],
+          "text": "規格 C22.2 No 0-10、 C22.2 No 0.4-M2004、 C22.2 No 94-M1991、 C22.2 No 142 – M1987、 C22.2 No 157-M1992、\nCAN/CSA E60079-0:07、 CAN/CSA E60079-11:02、 UL 50-11th Ed、 UL 508-17th Ed、 UL 913-7th Ed、 UL 60079-0:\n2005、 UL 60079-11:2002",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            394,
+            221,
+            420
+          ],
+          "text": "マーキン ブリアンブアセンブリ:\nグ クラスト ディビジョン",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            420,
+            625,
+            520
+          ],
+          "text": "ビジョン 2、 グルーブ ABCD、 周辺温度定格 –20 °C 〜 +60 °C、 Exia IIC、 T6: クラス I、 ゾーン 0、 AEx ia IIC、 T6\nブリアンブ付きセンサ装置:\nクラス I、 ディビジョン 1、 グルーブ ABCD、 クラス Ii、 ディビジョン 1、 グルーブ EFG、 クラス III、 クラス I、 ディ\nビジョン 2、 グルーブ ABCD、 周辺温度定格 –20 °C 〜 +60 °C、 Exia IIC、 T6: クラス I、 ゾーン 0、 AEx ia IIC、 T6\nセンサ装置:\nクラス I、 ディビジョン 1、 グルーブ ABCD、 クラス II、 ディビジョン 1、 グルーブ EFG、 クラス III、 クラス I、 ディ\nビジョン 2、 グルーブ ABCD、 Exia IIC、 T6、 周辺温度定格 –20 °C 〜 +60 °C: (シンプルな装置)",
+          "reading_order": 15
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            555,
+            114,
+            573
+          ],
+          "text": "カナダ",
+          "reading_order": 16
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            51,
+            591,
+            140,
+            610
+          ],
+          "text": "CSA 本質安全",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            618,
+            158,
+            636
+          ],
+          "text": "認定書 70164066",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            636,
+            606,
+            680
+          ],
+          "text": "规格 C22.2 No 0-10、 C22.2 No 0.4-M2004、 C22.2 No 94-M1991、 C22.2 No 142 - M1987、 C22.2 No 157-M1992、\nCAN/CSA E60079-0:07、 CAN/CSA E60079-11:02、 UL 50-11th Ed、 UL 508-17th Ed、 UL 913-7th Ed、 UL 60079-0:\n2005、 UL 60079-11: 2002",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            689,
+            625,
+            725
+          ],
+          "text": "マーキン プリアンプアセンプリ:\nグ クラスト, ディビジョン 1、 グルーブ ABCD、 クラス II、 ディビジョン 1、 グルーブ EFG、 クラス III、 クラス I、 ディ\nビジョン 2、 グルーブ ABCD、 周辺温度定格 -20 °C 〜 +60 °C、 Ex ia IIC、 T6: クラス I、 ゾーン 0、 AEx ia IIC、 T6",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            725,
+            606,
+            743
+          ],
+          "text": "《大唐書·卷164》,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷《大唐書》\n,\n出自陈梦雷",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            114,
+            743,
+            625,
+            770
+          ],
+          "text": "クラスト、ディビジョン 1、グループ ABCD、クラス Ii、ディビジョン 1、グループ EFG、クラス III、クラス I、ディ\nビジョン 2、グループ ABCD、 周辺温度定格 -20 °C 〜 +60 °C、 Ex ia IIC、 T6: クラス I、 ゾーン 0、 AEx ia IIC、 T6",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            113,
+            770,
+            167,
+            788
+          ],
+          "text": "センサ装置:",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            114,
+            788,
+            625,
+            815
+          ],
+          "text": "クラスト、 ディビジョン 1、 グループ ABCD、 クラス II、 ディビジョン 1、 グループ EFG、 クラス III、 クラス I、 ディ\nビジョン 2、 グループ ABCD、 Ex ia lIC、 T6、 周辺温度定格 −20 °C 〜 +60 °C: (シンプルな装置)",
+          "reading_order": 24
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            78,
+            855
+          ],
+          "text": "10",
+          "reading_order": 25
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 26
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            98,
+            140,
+            109
+          ],
+          "text": "ヨーロッパ",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            134,
+            140,
+            152
+          ],
+          "text": "ATEX 本質安全",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            161,
+            88,
+            170
+          ],
+          "text": "認定",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            159,
+            269,
+            170
+          ],
+          "text": "Baseefa10ATEX0156",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            179,
+            87,
+            188
+          ],
+          "text": "規格",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            179,
+            402,
+            189
+          ],
+          "text": "EN 60079-0: 2012+A11: 2013、 EN 60079-11: 2012",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            197,
+            115,
+            208
+          ],
+          "text": "マーキング",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            197,
+            391,
+            210
+          ],
+          "text": "ブリアンプが装着されていない $\\mathrm{pH} / \\mathrm{ORP}$ センサ",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            212,
+            355,
+            227
+          ],
+          "text": "11 G ExiaIIC T4 Ga (-20°C ~ +60°C)",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            232,
+            391,
+            244
+          ],
+          "text": "内藏スマートブリアンブを装着した $\\mathrm{pH}$ センサ",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            245,
+            355,
+            260
+          ],
+          "text": "11 G ExiaIIC T4 Ga (-20°C ~ +60°C)",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            260,
+            373,
+            277
+          ],
+          "text": "内藏標準プリアンプを装着した ORP センサ",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            277,
+            355,
+            295
+          ],
+          "text": "11GExiaIIC T4 Ga(-20°C~+80°C)",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            295,
+            320,
+            309
+          ],
+          "text": "Ex ia IIC T5 Ga (-20 \"C~+40 \"C)",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            313,
+            365,
+            326
+          ],
+          "text": "内藏標準プリアンプを装着した $\\mathrm{pH}$ センサ",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            328,
+            355,
+            343
+          ],
+          "text": "11 G Ex ia IIC T4 Ga (−20 °C ~ +80 °C)",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            349,
+            320,
+            359
+          ],
+          "text": "Ex ia IIC T5 Ga (-20 °C ~ +40 °C)",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            374,
+            231,
+            385
+          ],
+          "text": "安全に使用するための特定要件 $(\\mathbf{X})$ :",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            393,
+            633,
+            416
+          ],
+          "text": "1、 プラスチック製の筐体や露出したプラスチック部品を持つすべての pH/ORP センサモデルは、 静電気の薔積による発火\nの危険性を避けるために、 湿った布でのみ清掃する必要があります。",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            421,
+            633,
+            449
+          ],
+          "text": "2. 金属製の箇体を持つすべての pH/ORPセンサモデルは、 衝撃や摩擦による発火の潜在的リスクが考えられます。このリ\nスクからセンサを保護するために、 設置時には注意を私う必要があります。",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            456,
+            571,
+            469
+          ],
+          "text": "3. センサへの外部接続は、 適切な終端処理を行い、 少なくとも IP20 の保護等級を確保する必要があります。",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            474,
+            633,
+            502
+          ],
+          "text": "4. すべての pH/ORP センサモデルは、 プロセス流体との接触を意図しており、 接地に対する 500V r.m.s. テストを満たして\nいない場合があります。 これは設置時に考慮しなければなりません。",
+          "reading_order": 23
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            537,
+            87,
+            555
+          ],
+          "text": "国際",
+          "reading_order": 24
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            582,
+            149,
+            594
+          ],
+          "text": "IECEx 本質安全",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            609,
+            88,
+            618
+          ],
+          "text": "認定",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            608,
+            271,
+            618
+          ],
+          "text": "IECEx BAS 10.0083X",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            627,
+            87,
+            636
+          ],
+          "text": "規格",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            627,
+            355,
+            637
+          ],
+          "text": "IEC 60079-0: 2011, IEC 60079-11: 201",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            645,
+            115,
+            656
+          ],
+          "text": "マーキング",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            645,
+            392,
+            672
+          ],
+          "text": "ブリアンブが装着されていない $\\mathrm{pH} / \\mathrm{ORP}$ センサ\nEx ia IIC T4 Ga $\\left(-20^{\\circ} \\mathrm{C} \\sim+60^{\\circ} \\mathrm{C}\\right)$",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            672,
+            391,
+            689
+          ],
+          "text": "内藏スマートブリアンブを装着した $\\mathrm{pH}$ センサ",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            689,
+            320,
+            699
+          ],
+          "text": "Ex ja IIC T4 Ga (−20 °C ~ +60 °C",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            706,
+            382,
+            716
+          ],
+          "text": "内藏標準プリアンプを装着した ORP センサ",
+          "reading_order": 34
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            716,
+            329,
+            734
+          ],
+          "text": "Ex ia IIC T4 Ga (-20 °C ~ +80 °C)",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            734,
+            329,
+            747
+          ],
+          "text": "Ex ia IIC T5 Ga (-20 °C ~ +40 °C)",
+          "reading_order": 36
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            752,
+            373,
+            764
+          ],
+          "text": "内藏標準プリアンブを装着した pH センサ",
+          "reading_order": 37
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            764,
+            329,
+            779
+          ],
+          "text": "Ex ia IIC T4 Ga (-20 °C ~ +80 °C)",
+          "reading_order": 38
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            779,
+            329,
+            797
+          ],
+          "text": "Ex ia IIC T5 Ga (-20 °C ~ +40 °C)",
+          "reading_order": 39
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            856
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 40
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "11",
+          "reading_order": 41
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            89,
+            239,
+            107
+          ],
+          "text": "安全に使用するための特定要件(X):",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            115,
+            633,
+            138
+          ],
+          "text": "1、 プラスチック製の筐体や露出したプラスチック部品を持つすべての pH/ORP センサモデルは、 静電気の薔積による発火\nの危険性を避けるために、 湿った布でのみ清掃する必要があります。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            143,
+            633,
+            171
+          ],
+          "text": "2. 金属製の箇体を持つすべての pH/ORPセンサモデルは、 衝撃や摩擦による発火の潜在的リスクが考えられます。このリ\nスクからセンサを保護するために、 設置時には注意を私う必要があります。",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            179,
+            571,
+            190
+          ],
+          "text": "3. センサへの外部接続は、 適切な終端処理を行い、 少なくとも IP20 の保護等級を確保する必要があります。",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            197,
+            633,
+            224
+          ],
+          "text": "4. すべての pH/ORP センサモデルは、 プロセス流体との接触を意図しており、 接地に対する 500V r.m.s. テストを満たして\nいない場合があります。 これは設置時に考慮しなければなりません。",
+          "reading_order": 6
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            259,
+            89,
+            277
+          ],
+          "text": "中国",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            295,
+            149,
+            313
+          ],
+          "text": "NEPSI 本質安全",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            322,
+            88,
+            334
+          ],
+          "text": "认定",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            172,
+            322,
+            239,
+            332
+          ],
+          "text": "GYB19.1035X",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            340,
+            87,
+            352
+          ],
+          "text": "规格",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            340,
+            418,
+            353
+          ],
+          "text": "GB 3836.1-2010、 GB 3836.4-2010、 GB 3836.20-2010",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            358,
+            115,
+            376
+          ],
+          "text": "マーキング",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            358,
+            313,
+            376
+          ],
+          "text": "\\xiaIIC T4 Ga(-20°C~+60°C)",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            385,
+            212,
+            403
+          ],
+          "text": "安全な使用のための特定条件 $(\\mathbf{X})$",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            78,
+            403,
+            588,
+            421
+          ],
+          "text": "1. 静電気発火の危険性を防ぐために、製品のブラスチックシェル部分をこすることは厳しく禁じられています。",
+          "reading_order": 16
+        },
+        {
+          "label": "list",
+          "bbox": [
+            78,
+            421,
+            517,
+            439
+          ],
+          "text": "2. 奥品シェルに軽金属が含まれている場合は、ゾーン 0 環境での使用を避ける必要があります。",
+          "reading_order": 17
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            474,
+            239,
+            492
+          ],
+          "text": "関税同盟技術規則 (EAC)",
+          "reading_order": 18
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            51,
+            510,
+            140,
+            528
+          ],
+          "text": "EAC 本質安全",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            537,
+            87,
+            550
+          ],
+          "text": "認定:",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            555,
+            115,
+            568
+          ],
+          "text": "マーキング",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            537,
+            302,
+            548
+          ],
+          "text": "TC RU C-US.MIO62.B.0601",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            555,
+            392,
+            573
+          ],
+          "text": "ブリアンプが装着されていない $\\mathrm{pH} / \\mathrm{ORP}$ センサ",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            573,
+            329,
+            583
+          ],
+          "text": "Ex ia IIC T4 Ga (−20 °C ~ +60 °C)",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            583,
+            391,
+            600
+          ],
+          "text": "内藏スマートブリアンブを装着した $\\mathrm{pH}$ センサ",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            600,
+            329,
+            613
+          ],
+          "text": "Ex ia IIC T4 Ga (-20 °C ~ +60 °C)",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            618,
+            382,
+            629
+          ],
+          "text": "内藏標準プリアンブを装着した ORP センサ",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            629,
+            329,
+            645
+          ],
+          "text": "Ex ia IIC T4 Ga (-20 °C ~ +80 °C)",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            645,
+            329,
+            663
+          ],
+          "text": "Ex ia IIC T5 Ga (-20 °C ~ +40 °C)",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            663,
+            373,
+            676
+          ],
+          "text": "内藏標準プリアンプを装着した pH センサ",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            679,
+            329,
+            689
+          ],
+          "text": "Ex ia IIC T4 Ga (−20 °C ~ +80 °C)",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            176,
+            689,
+            329,
+            707
+          ],
+          "text": "Ex ia IIC T5 Ga (-20°C ~ +40°C)",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            716,
+            222,
+            734
+          ],
+          "text": "安全に使用するための特定条件 $(\\mathbf{X})$ :",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            734,
+            302,
+            752
+          ],
+          "text": "特別な条件については、 認定書を参照してください。",
+          "reading_order": 34
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            78,
+            855
+          ],
+          "text": "12",
+          "reading_order": 35
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 36
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            53,
+            123,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            472,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            89,
+            266,
+            117
+          ],
+          "text": "寸法図および設置図",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            134,
+            194,
+            152
+          ],
+          "text": "図 1: センサの適切な設置方向",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_013_figure_004.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_013_figure_004.png",
+          "bbox": [
+            51,
+            152,
+            373,
+            322
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            51,
+            322,
+            266,
+            340
+          ],
+          "text": "センサを垂直 80 度以内に設置してください。",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            349,
+            278,
+            359
+          ],
+          "text": "図 2: 一体型ケーブル接続付き Rosemount 3900",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_013_figure_007.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_013_figure_007.png",
+          "bbox": [
+            60,
+            367,
+            149,
+            698
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            77,
+            706,
+            266,
+            761
+          ],
+          "text": "A. 1 インチのオス米田管用ネジ (MNPT)\nB. 幅 1.30 インチのレンチ平面\nC. 1 インチMNPT\nD. も インチMNPT",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "13",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            89,
+            302,
+            107
+          ],
+          "text": "図 3:Variopol ケーブル接続付き Rosemount 3900VP",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_014_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_014_figure_003.png",
+          "bbox": [
+            60,
+            116,
+            158,
+            448
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            77,
+            448,
+            206,
+            492
+          ],
+          "text": "A. 溶液グランドの温度補償\nB. 基準接点\nC. pH 電極",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            519,
+            633,
+            663
+          ],
+          "text": "<table><tr><td>圧力</td><td>温度</td></tr><tr><td>1.03 MPa</td><td>150 °F</td></tr><tr><td>882.5 kPa</td><td>160 °F</td></tr><tr><td>703.3 kPa</td><td>170 °F</td></tr><tr><td>551.6 kPa</td><td>180 °F</td></tr><tr><td>393.0 kPa</td><td>200 °F</td></tr><tr><td>330.9 kPa</td><td>210 °F</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            51,
+            501,
+            302,
+            519
+          ],
+          "text": "表 3: 水平なディー字菅(PN 2002011)圧力/温度定格",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            78,
+            855
+          ],
+          "text": "14",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_015_figure_002.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_015_figure_002.png",
+          "bbox": [
+            60,
+            107,
+            633,
+            304
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            89,
+            373,
+            107
+          ],
+          "text": "図 4:PN 2002011 パイブティーを使用した一般的な直接挿入挿入設置",
+          "reading_order": 3
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            77,
+            322,
+            257,
+            349
+          ],
+          "text": "A. 11⁄2 インチ×1 インチ 径違い継ぎ手\nB. 11⁄2 インチのティー字管PN 2002011",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            51,
+            376,
+            633,
+            602
+          ],
+          "text": "<table><tr><td colspan=\"2\">徭渭村科</td></tr><tr><td>本体およびナット</td><td>ポリエステルノポリカーポネート</td></tr><tr><td>継手</td><td>316 ステンレス銅</td></tr><tr><td>シール</td><td>シリコーン</td></tr><tr><td colspan=\"2\">フローセルの位置づけ</td></tr><tr><td>温度</td><td>32 * F 〜 158 * F</td></tr><tr><td>最大圧力</td><td>620.5 kPa</td></tr><tr><td>流量:</td><td>2 gal 〜 5 gal/ 時間</td></tr><tr><td colspan=\"2\">センサスレッドの接続</td></tr><tr><td>24091-00</td><td>1 インチの米国管用ネジ (NPT) のアダブタ</td></tr><tr><td>24091-02</td><td>34-インチの NPT のアダブタ</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            358,
+            276,
+            376
+          ],
+          "text": "表 4 : 低流量セルの仕様 PN 24091-00/24091-02",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "15",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            216,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            89,
+            230,
+            107
+          ],
+          "text": "図 5: ローフローセル (PN 24091-00)",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_016_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_016_figure_003.png",
+          "bbox": [
+            60,
+            115,
+            355,
+            439
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            448,
+            123,
+            460
+          ],
+          "text": "A",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            465,
+            114,
+            474
+          ],
+          "text": "B. mm",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            474,
+            149,
+            492
+          ],
+          "text": "C. アウトレッ.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            492,
+            149,
+            502
+          ],
+          "text": "D. インレット",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            78,
+            855
+          ],
+          "text": "16",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            472,
+            53,
+            633,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_017_figure_002.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_017_figure_002.png",
+          "bbox": [
+            69,
+            116,
+            329,
+            439
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            89,
+            311,
+            107
+          ],
+          "text": "図6:フロースルーティー(2インチ)(PN 914240-XX)",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            78,
+            448,
+            140,
+            460
+          ],
+          "text": "A. ブダブタ",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            474,
+            391,
+            486
+          ],
+          "text": "Rosemount3900/3900VPには、次のフロースルーディーを使用できます",
+          "reading_order": 5
+        },
+        {
+          "label": "list",
+          "bbox": [
+            69,
+            492,
+            125,
+            503
+          ],
+          "text": "915240-03",
+          "reading_order": 6
+        },
+        {
+          "label": "list",
+          "bbox": [
+            69,
+            510,
+            125,
+            522
+          ],
+          "text": "915240-04",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            69,
+            528,
+            125,
+            546
+          ],
+          "text": "915240-05",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            546,
+            472,
+            564
+          ],
+          "text": "新規設置の場合は、上記の適切なティーを使用して S10283-LQD アダブターを追加します。",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            564,
+            588,
+            594
+          ],
+          "text": "既存のRosemount 399 を Rosemount 3900 センサーと交換する場合は、 S10283-LQD アダブターを追加してティーを\nRosemount 3900 センサーを受け入れるように変換します。",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "17",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            216,
+            71
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            89,
+            203,
+            107
+          ],
+          "text": "図 7: ジェット噴霧式クリーナー",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_018_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_018_figure_003.png",
+          "bbox": [
+            60,
+            107,
+            329,
+            448
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            448,
+            167,
+            461
+          ],
+          "text": "A 他社製の洗浄液",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            465,
+            266,
+            475
+          ],
+          "text": "B. 電磁バルブまたは手動バルブ (所掌外",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            475,
+            203,
+            492
+          ],
+          "text": "C. 耐食チュープ (所掌外)",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            492,
+            355,
+            505
+          ],
+          "text": "D. ポリプロピレン製リィンチ(6.4 mm) 圧縮フィッティンサ",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            505,
+            257,
+            519
+          ],
+          "text": "E. 14 in (6.4 mm) 316 ステンレス鋼",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            519,
+            239,
+            537
+          ],
+          "text": "F. 14 in $(6.4 \\mathrm{~mm})$ ポリプロビレ.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            537,
+            311,
+            548
+          ],
+          "text": "G、 スプレーノズル高さ劇整用ステンレス止めネジ",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            548,
+            221,
+            564
+          ],
+          "text": "H. 2 in (50.8 mm) NPT * : $>$",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            564,
+            123,
+            582
+          ],
+          "text": "センザ",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            582,
+            355,
+            593
+          ],
+          "text": "}- 浸漬用途用1インチ(25.4 mm) PVC カップリング(所掌外)",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            593,
+            392,
+            609
+          ],
+          "text": "K. 1 インチ(25.4 mm) のPVC またはステンレス製コンジット(所掌外)",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            609,
+            140,
+            618
+          ],
+          "text": "参考文献",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            76,
+            627,
+            409,
+            636
+          ],
+          "text": "M. 他社支給のタイマー、 または、 Rosemount 装置でタイマー機施を使用",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            78,
+            855
+          ],
+          "text": "18",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            472,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            89,
+            329,
+            107
+          ],
+          "text": "図8:ジェット噴霧式クリーナー付 Rosemount 3900 センサ",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_019_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_019_figure_003.png",
+          "bbox": [
+            60,
+            125,
+            454,
+            322
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            339,
+            633,
+            361
+          ],
+          "text": "ジェット噴霧式クリーナは、 センサを水あるいは圧縮空気で洗浄することで、 手作業による定期的なメンテナンスが不要にな\nりました。 電磁弁を使用してクリーナー内の流量のコントロールが可能です。",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            367,
+            69,
+            376
+          ],
+          "text": "13",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            383,
+            633,
+            406
+          ],
+          "text": "ハンドレール取り付けアセンプリ (PN 11275-01、 図示なし) にジェット噴霧式クリーナーを使用、 または図 8 に示すように\n導管を通して取り付けることもできます。",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            856
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "19",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            89,
+            241,
+            107
+          ],
+          "text": "図 9: 定流量バネル PN 00390-7101-000",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/rosemount-3900-3900vp-ja-jp-7799952_page_020_figure_003.png)",
+          "figure_path": "figures/rosemount-3900-3900vp-ja-jp-7799952_page_020_figure_003.png",
+          "bbox": [
+            60,
+            116,
+            241,
+            770
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            73,
+            855
+          ],
+          "text": "20",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            107,
+            633,
+            179
+          ],
+          "text": "<table><tr><td>流入量</td><td>3 gal ~ 80 gal/ 時間</td></tr><tr><td>流入圧力</td><td>20.7 kPa ~ 448.2 kPa(1)</td></tr><tr><td>温度</td><td>0 °C ~ 50 °C</td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            51,
+            89,
+            177,
+            107
+          ],
+          "text": "表 5 : 低流量バネルの仕様",
+          "reading_order": 3
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            60,
+            179,
+            607,
+            206
+          ],
+          "text": "《1》 逆止弃を開くには疑小入口圧力が必要です。 これにより, サンプルフローが失われた場合でもフローセル内のサンプル液は梯出され\nません。 逆止弃を取り外すと、 入口圧力条件が下がります。",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "21",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            216,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            569,
+            53,
+            633,
+            65
+          ],
+          "text": "2021年8月",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            842,
+            73,
+            855
+          ],
+          "text": "22",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            499,
+            842,
+            633,
+            860
+          ],
+          "text": "Emerson.com/Rosemount",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            53,
+            114,
+            64
+          ],
+          "text": "2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            476,
+            53,
+            633,
+            67
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            842,
+            187,
+            860
+          ],
+          "text": "Rosemount 3900/3900VP",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            615,
+            842,
+            633,
+            855
+          ],
+          "text": "23",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            35,
+            633,
+            71
+          ],
+          "text": "00813-0104-3900\n\nRev. AC\n\n2021 年 8 月",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            42,
+            672,
+            203,
+            681
+          ],
+          "text": "详細注,Emerson.com をご覧ください。",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            689,
+            212,
+            700
+          ],
+          "text": "022 Emerson 無断複写·転截を禁じます",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            33,
+            707,
+            284,
+            770
+          ],
+          "text": "Emerson の販売条件は、 ご要望に応じて提供させていただき\nます。 Emerson のロゴは、 Emerson Electric Co. の商標および\nサービスマークです。 Rosemount は、 Emerson 系列企業であ\nる一社のマークです。 他のすべてのマークは、 それぞれの所\n有者に帰属します。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            508,
+            833,
+            633,
+            854
+          ],
+          "text": "EMERSON.",
+          "reading_order": 4
+        }
+      ]
+    }
+  ]
+}

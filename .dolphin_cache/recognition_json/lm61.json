@@ -1,0 +1,4621 @@
+{
+  "source_file": "F:\\KeyWordSystem\\data\\lm61.pdf",
+  "total_pages": 25,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            185,
+            17,
+            221,
+            35
+          ],
+          "text": "Product\nFolder",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            302,
+            17,
+            342,
+            35
+          ],
+          "text": "☺",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            409,
+            17,
+            445,
+            35
+          ],
+          "text": "Tools &\nSoftware",
+          "reading_order": 3
+        },
+        {
+          "label": "header",
+          "bbox": [
+            480,
+            8,
+            523,
+            35
+          ],
+          "text": "Support &\nCommunity",
+          "reading_order": 4
+        },
+        {
+          "label": "header",
+          "bbox": [
+            571,
+            8,
+            633,
+            32
+          ],
+          "text": "参考资料",
+          "reading_order": 5
+        },
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            53,
+            176,
+            80
+          ],
+          "text": "Texas\n\nINSTRUMENTS\n\n参考文献",
+          "reading_order": 6
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            71,
+            633,
+            89
+          ],
+          "text": "JAJS924J -JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            167,
+            89,
+            519,
+            107
+          ],
+          "text": "LM61 2.7V、SOT-23またはTO-92温度センサ",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            116,
+            114,
+            134
+          ],
+          "text": "1 特長",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            134,
+            266,
+            152
+          ],
+          "text": "· 較正済み線形スケール係数: $10 \\mathrm{mV} /{ }^{\\circ} \\mathrm{C}$",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            152,
+            225,
+            165
+          ],
+          "text": "• -30℃~100℃の動作温度範囲",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            169,
+            258,
+            181
+          ],
+          "text": "・リモート・アプリケーションに最適",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            181,
+            204,
+            197
+          ],
+          "text": "• UL認定のコンポーネント",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            197,
+            303,
+            215
+          ],
+          "text": "• 25°Cにおいて±2°Cまたは±3°Cの精度(最大値)",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            215,
+            284,
+            232
+          ],
+          "text": "• -25°C〜85°Cについて±3°Cの精度(最大値)",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            232,
+            293,
+            246
+          ],
+          "text": "• -30°C〜100°Cについて±4°Cの精度(最大値)",
+          "reading_order": 16
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            246,
+            221,
+            262
+          ],
+          "text": "· 10mV/°Cの温度勾配(最大値)",
+          "reading_order": 17
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            262,
+            207,
+            277
+          ],
+          "text": "·電源電圧範囲: 2.7V~10V",
+          "reading_order": 18
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            277,
+            276,
+            295
+          ],
+          "text": "• 消費電流: 25°Cにおいて125μA (最大値)",
+          "reading_order": 19
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            295,
+            204,
+            313
+          ],
+          "text": "• 非直線性: ±0.8°C (最大値",
+          "reading_order": 20
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            313,
+            258,
+            326
+          ],
+          "text": "• 出力インビーダンス: 800Ω (最大値)",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            338,
+            188,
+            352
+          ],
+          "text": "2 アプリケーション",
+          "reading_order": 22
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            358,
+            123,
+            371
+          ],
+          "text": "· 携带電話",
+          "reading_order": 23
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            376,
+            149,
+            386
+          ],
+          "text": "•\nعンピュータ",
+          "reading_order": 24
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            386,
+            150,
+            403
+          ],
+          "text": "•電源モジューノ",
+          "reading_order": 25
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            403,
+            149,
+            421
+          ],
+          "text": "・バッテリ管理",
+          "reading_order": 26
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            421,
+            133,
+            434
+          ],
+          "text": "• FAXマシン",
+          "reading_order": 27
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            439,
+            123,
+            451
+          ],
+          "text": "• プリンタ",
+          "reading_order": 28
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            456,
+            114,
+            466
+          ],
+          "text": "• HVAC",
+          "reading_order": 29
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            466,
+            178,
+            483
+          ],
+          "text": "• ディスク・ドライフ",
+          "reading_order": 30
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            483,
+            123,
+            501
+          ],
+          "text": "• 家電製品",
+          "reading_order": 31
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_001_figure_032.png)",
+          "figure_path": "figures/lm61_page_001_figure_032.png",
+          "bbox": [
+            51,
+            519,
+            333,
+            725
+          ],
+          "reading_order": 32
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            114,
+            725,
+            330,
+            738
+          ],
+          "text": "Copyright © 2016, Texas Instruments Incorporated",
+          "reading_order": 33
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            105,
+            743,
+            239,
+            756
+          ],
+          "text": "$$\n\\mathrm{V}_{\\mathrm{O}}=\\left(10 \\mathrm{mV} /{ }^{\\circ} \\mathrm{C} \\times \\mathrm{T}^{\\circ} \\mathrm{C}\\right)+600 \\mathrm{mV}\n$$",
+          "reading_order": 34
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            355,
+            116,
+            405,
+            134
+          ],
+          "text": "3 概要",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            134,
+            633,
+            215
+          ],
+          "text": "LM61デバイスは高精度の統合回路温度センサで、 単一\nの2.7V電源により動作し、\n-30℃〜100℃の温度範囲を検\n出できます。 LM61の出力電圧は温度に正比例\n(10mV/℃)し、 DCオフセットは600mVです。 このオフセット\nにより、 負電源を必要とせずに負温度を読み取れます。",
+          "reading_order": 36
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            215,
+            633,
+            277
+          ],
+          "text": "LM61 の公称出力電圧は、-30℃〜100℃ の温度範囲に\nついて 300mV〜1600mV です。 LM61 は、 室温で ±\n2℃、\n-25℃〜85℃の温度範囲全体にわたって±3℃の精\n度を維持するよう較正済みです。",
+          "reading_order": 37
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            286,
+            633,
+            412
+          ],
+          "text": "LM61の線形出力、 600mVのオフセット、 工場での較正に\nより、 単一電源の環境で負温度の読み取りが要求される\n場合に必要な外部回路が簡素化されます。 静止電流が\n125μA未満なので、 自己発熱が非常に少なく、 静止空気\n中で0.2℃以下に抑えられています。 LM61は本質的に低\n消費電力であり、 様々なロジック・ゲートの出力から直接電\n源を供給できるので、 専用の制御端子を備えていなくても\n容易にシャットダウンができます。",
+          "reading_order": 38
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            472,
+            421,
+            527,
+            434
+          ],
+          "text": "製品情報(1)",
+          "reading_order": 39
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            355,
+            439,
+            633,
+            483
+          ],
+          "text": "<table><tr><td>型番</td><td>× 2 分 为 一 分</td><td>本体サイズ(公称)</td></tr><tr><td rowspan=\"2\">LM61</td><td>SOT-23 (3)</td><td>1.30mm×2.92mm</td></tr><tr><td>TO-92 (3)</td><td>4.30mm×4.30mm</td></tr></table>",
+          "reading_order": 40
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            355,
+            483,
+            633,
+            505
+          ],
+          "text": "(1)提供されているすべてのバッケージについては、 巻末の注文情報\nを参照してください。",
+          "reading_order": 41
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            472,
+            509,
+            518,
+            521
+          ],
+          "text": "主な仕様",
+          "reading_order": 42
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            355,
+            521,
+            633,
+            654
+          ],
+          "text": "<table><tr><th><th>值</th></tr><tr><td>25°C での精度</td><td>±2°C 主たは±3°C</td></tr><tr><td>-25°C 〜85°Cでの精度</td><td>±3°C</td></tr><tr><td>-30°C 〜100°Cでの精度</td><td>±4°C</td></tr><tr><td>温度勾配</td><td>10mV/°C</td></tr><tr><td>電源電圧</td><td>2.7V〜10V</td></tr><tr><td>25°Cでの消費電流</td><td>125μA</td></tr><tr><td>非線形性</td><td>±0.8°C</td></tr><tr><td>出力にプロジェクス</td><td>800Ω</td></tr></table>",
+          "reading_order": 43
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            541,
+            860,
+            633,
+            869
+          ],
+          "text": "English Data Sheet: SNIS121",
+          "reading_order": 44
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            51,
+            44,
+            272,
+            72
+          ],
+          "text": "LM61\nJAJS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            552,
+            17,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            579,
+            62,
+            633,
+            71
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            329,
+            80,
+            359,
+            98
+          ],
+          "text": "目次",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            107,
+            330,
+            130
+          ],
+          "text": "1 特長...... 1",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            134,
+            330,
+            145
+          ],
+          "text": "3 概要 ...... 1",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            145,
+            338,
+            161
+          ],
+          "text": "4 改訂履歷……2",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            161,
+            332,
+            188
+          ],
+          "text": "5 Pin Configuration and Functions ...... 3\n6 Specifications ...... 3",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            189,
+            332,
+            200
+          ],
+          "text": "6.1 Absolute Maximum Ratings …… 3",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            200,
+            332,
+            215
+          ],
+          "text": "6.2 ESD Ratings …… 3",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            215,
+            332,
+            226
+          ],
+          "text": "6.3 Recommended Operating Conditions …… 3",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            226,
+            331,
+            241
+          ],
+          "text": "6.4 Thermal Information …… 4",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            241,
+            331,
+            250
+          ],
+          "text": "6.5 Electrical Characteristics …… 4",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            250,
+            332,
+            277
+          ],
+          "text": "6.6 Typical Characteristics …… 5\n\nDetailed Description …… 7",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            278,
+            332,
+            288
+          ],
+          "text": "7.1 Overview …… 7",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            288,
+            332,
+            304
+          ],
+          "text": "7.2 Functional Block Diagram …… 7",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            304,
+            332,
+            315
+          ],
+          "text": "7.3 Feature Description …… 7",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            315,
+            332,
+            331
+          ],
+          "text": "7.4 Device Functional Modes …… 7",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            107,
+            633,
+            119
+          ],
+          "text": "8 Application and Implementation……8",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            119,
+            633,
+            134
+          ],
+          "text": "8.1 Application Information……8",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            134,
+            633,
+            144
+          ],
+          "text": "8.2 Typical Applications …… 8",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            144,
+            633,
+            161
+          ],
+          "text": "9 Power Supply Recommendations……11",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            161,
+            633,
+            184
+          ],
+          "text": "10 Layout …… 11\n10.1 Layout Guidelines …… 11",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            184,
+            633,
+            197
+          ],
+          "text": "10.2 Layout Examples……11",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            197,
+            633,
+            207
+          ],
+          "text": "10.3 Thermal Considerations …… 12",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            207,
+            633,
+            224
+          ],
+          "text": "11 デバイスおよびドキュメントのサポート……14",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            224,
+            633,
+            234
+          ],
+          "text": "11.1 関連資料……14",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            234,
+            633,
+            250
+          ],
+          "text": "11.2 ドキュメントの更新通知を受け取る方法…… 14",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            250,
+            633,
+            259
+          ],
+          "text": "11.3 三三元1.17一2……14",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            259,
+            633,
+            277
+          ],
+          "text": "11.4 商標……14",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            277,
+            633,
+            286
+          ],
+          "text": "11.5 静電気放電に関する注意事项……14",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            391,
+            286,
+            633,
+            299
+          ],
+          "text": "11.6 Glossary……14",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            299,
+            633,
+            313
+          ],
+          "text": "12 メカニカル、パッケージ、および注文情報……14",
+          "reading_order": 34
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            357,
+            134,
+            370
+          ],
+          "text": "4 改訂履歷",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            51,
+            370,
+            418,
+            385
+          ],
+          "text": "資料番号末尾の英字は改訂を表しています。その改訂履歴は英語版に準じています",
+          "reading_order": 36
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            400,
+            302,
+            412
+          ],
+          "text": "Revision I (February 2013) から Revision J に変更",
+          "reading_order": 37
+        },
+        {
+          "label": "list",
+          "bbox": [
+            51,
+            421,
+            606,
+            457
+          ],
+          "text": "• 「 製品情報」 表,\n「 デバイス比較表」 、\n「 ビン構成および機能」 セクション、\n「 仕様」 セクション、\n「 ESD定格」 表,\n「 詳細説明」 セク\nション、\n「 アプリケーションと実装」 セクション、\n「 電源に関する推奨事項」 セクション、\n「 レイアウト」 セクション、\n「 デバイスおよびド\nキュズントのサボート」 セクション、\n「 メカニカル、 バッケージ、 および注 文情報」 セクション 追加............................... 1",
+          "reading_order": 38
+        },
+        {
+          "label": "list",
+          "bbox": [
+            77,
+            457,
+            633,
+            474
+          ],
+          "text": "Added Thermal Information table……4",
+          "reading_order": 39
+        },
+        {
+          "label": "list",
+          "bbox": [
+            78,
+            474,
+            580,
+            501
+          ],
+          "text": "Changed RiUA values for DBZ (SOT-23) From: 450°C/W To: 286.3°C/W and for LP (TO-92) From: 180°C/W To:\n162.2°C/W …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+          "reading_order": 40
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            51,
+            527,
+            302,
+            538
+          ],
+          "text": "Revision H (February 2013) から Revision I に変更",
+          "reading_order": 41
+        },
+        {
+          "label": "para",
+          "bbox": [
+            606,
+            528,
+            633,
+            538
+          ],
+          "text": "Page",
+          "reading_order": 42
+        },
+        {
+          "label": "list",
+          "bbox": [
+            78,
+            546,
+            633,
+            564
+          ],
+          "text": "ナショナル・セミコンダクターのデータシートのレイアウトをTIPォーマットに 変更…… 1",
+          "reading_order": 43
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            51,
+            832,
+            69,
+            845
+          ],
+          "text": "2",
+          "reading_order": 44
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            833,
+            633,
+            851
+          ],
+          "text": "Copyright 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 45
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            44,
+            633,
+            71
+          ],
+          "text": "LM61\n\n\nJ AJS924J –JUNE 1999–REVISED NOVEMBER 2016",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            129,
+            72
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            293,
+            98
+          ],
+          "text": "5 Pin Configuration and Functions",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_003_figure_004.png)",
+          "figure_path": "figures/lm61_page_003_figure_004.png",
+          "bbox": [
+            140,
+            116,
+            257,
+            224
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_003_figure_005.png)",
+          "figure_path": "figures/lm61_page_003_figure_005.png",
+          "bbox": [
+            454,
+            116,
+            535,
+            216
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            308,
+            232,
+            383,
+            250
+          ],
+          "text": "Pin Functions",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            250,
+            633,
+            323
+          ],
+          "text": "<table><tr><td colspan=\"2\">PIN</td><td rowspan=\"2\">TYPE</td><td rowspan=\"2\">DESCRIPTION</td></tr><tr><td>NAME</td><td>NO.</td></tr><tr><td>+VS</td><td>1</td><td>Power</td><td>Positive power supply pin.</td></tr><tr><td>VOUT</td><td>2</td><td>Output</td><td>Temperature sensor analog output.</td></tr><tr><td>GND</td><td>3</td><td>Ground</td><td>Device ground pin, connected to power supply negative terminal.</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            340,
+            176,
+            355
+          ],
+          "text": "6 Specifications",
+          "reading_order": 8
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            367,
+            253,
+            381
+          ],
+          "text": "6.1 Absolute Maximum Ratings",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            384,
+            373,
+            396
+          ],
+          "text": "over operating free-air temperature range (unless otherwise noted) ${ }^{(1)}$",
+          "reading_order": 10
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            396,
+            633,
+            501
+          ],
+          "text": "<table><tr><td></td><td>MIN</td><td>MAX</td><td>UNIT</td></tr><tr><td>Supply voltage</td><td>12</td><td>–0.2</td><td>V</td></tr><tr><td>Output voltage</td><td>(+V S + 0.6)</td><td>–0.6</td><td>V</td></tr><tr><td>Output current</td><td></td><td>10</td><td>mA</td></tr><tr><td>Input current at any pin (2)</td><td></td><td>5</td><td>mA</td></tr><tr><td>Maximum junction temperature, T J</td><td></td><td>125</td><td>°C</td></tr><tr><td>Storage temperature, T stg</td><td>–65</td><td>150</td><td>°C</td></tr></table>",
+          "reading_order": 11
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            60,
+            509,
+            633,
+            550
+          ],
+          "text": "(1) Stresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. These are stress ratings\nonly, which do not imply functional operation of the device at these or any other conditions beyond those indicated under Recommended\nOperating Conditions . Exposure to absolute-maximum-rated conditions for extended periods may affect device reliability.\n(2) When the input voltage (V $_{\\text{i}}$ ) at any pin exceeds power supplies (V $_{\\text{i}}$ < GND or V $_{\\text{i}}$ > V $_{\\text{Si}}$ ), the current at that pin must be limited to 5 mA.",
+          "reading_order": 12
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            564,
+            167,
+            577
+          ],
+          "text": "6.2 ESD Ratings",
+          "reading_order": 13
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            577,
+            633,
+            627
+          ],
+          "text": "<table><tr><td></td><td></td><td>VALUE</td><td>UNIT</td></tr><tr><td rowspan=\"2\">V (ESD)</td><td rowspan=\"2\">Electrostatic discharge</td><td>Human‐body model (HBM), per ANSI/ESDA/JEDEC JS‐001 (1) (2)</td><td>±2500</td><td rowspan=\"2\">V</td></tr><tr><td>Machine Model (MM) (3)</td><td>±250</td></tr></table>",
+          "reading_order": 14
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            60,
+            627,
+            544,
+            663
+          ],
+          "text": "(1) JEDEC document JEP155 states that 500-V HBM allows safe manufacturing with a standard ESD control process.\n(2) The human body model is a 100-pF capacitor discharged through a 1.5-kΩ resistor into each pin.\n(3) The machine model is a 200-pF capacitor discharged directly into each pin.",
+          "reading_order": 15
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            672,
+            311,
+            689
+          ],
+          "text": "6.3 Recommended Operating Conditions",
+          "reading_order": 16
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            689,
+            633,
+            752
+          ],
+          "text": "<table><tr><td>+V S</td><td>Supply voltage</td><td rowspan=\"2\">LM61C</td><td rowspan=\"2\">MIN 2–30</td><td rowspan=\"2\">MAX 10 100</td><td>UNIT</td></tr><tr><td rowspan=\"2\">T</td><td rowspan=\"2\">Operating temperature</td><td rowspan=\"2\">V</td></tr><tr><td>LM61B</td><td>–25</td><td>85</td></tr></table>",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            851
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 18
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            845
+          ],
+          "text": "3",
+          "reading_order": 19
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            88,
+            55
+          ],
+          "text": "LMI",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            263,
+            72
+          ],
+          "text": "JAJS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            579,
+            62,
+            633,
+            71
+          ],
+          "text": "www.ti.com",
+          "reading_order": 3
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            80,
+            209,
+            98
+          ],
+          "text": "6.4 Thermal Information",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            98,
+            633,
+            215
+          ],
+          "text": "<table><tr><td></td><td rowspan=\"2\">THERMAL METRIC (1)</td><td colspan=\"2\">LM61</td><td rowspan=\"2\">UNIT</td></tr><tr><td></td><td>DBZ (SOT-23) 3 PINS</td><td>LP (TO-92) 3 PINS</td></tr><tr><td>R UA</td><td>Junction-to-ambient thermal resistance (2)</td><td>286.3</td><td>162.2</td><td>°C/W</td></tr><tr><td>R UC(top)</td><td>Junction-to-case (top) thermal resistance</td><td>96</td><td>85</td><td>°C/W</td></tr><tr><td>R SUB</td><td>Junction-to-board thermal resistance</td><td>57.1</td><td>—</td><td>°C/W</td></tr><tr><td>ψ IT</td><td>Junction-to-top characterization parameter</td><td>5.3</td><td>29.2</td><td>°C/W</td></tr><tr><td>ψ IB</td><td>Junction-to-board characterization parameter</td><td>55.8</td><td>141.4</td><td>°C/W</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            60,
+            224,
+            615,
+            255
+          ],
+          "text": "(1) For more information about traditional and new thermal metrics, see the Semiconductor and IC Package Thermal Metrics application\nreport.\n(2) The junction-to-ambient thermal resistance is specified without a heat sink in still air.",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            268,
+            239,
+            278
+          ],
+          "text": "6.5 Electrical Characteristics",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            285,
+            149,
+            297
+          ],
+          "text": "+Vs = 3 V (DC)(1)(2)",
+          "reading_order": 8
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            297,
+            633,
+            600
+          ],
+          "text": "<table><tr><td rowspan=\"2\">PARAMETER Accuracy (5)</td><td colspan=\"2\">TEST CONDITIONS</td><td rowspan=\"2\">MIN (3) −2 −3 −3</td><td rowspan=\"2\">TYP (4)</td><td rowspan=\"2\">MAX (3) 2 3 3</td><td rowspan=\"2\">UNIT °C</td></tr><tr><td>TA = 25°C LM61B LM61B</td><td>LM61B LM61C</td></tr><tr><td>Output voltage at 0°C</td><td></td><td></td><td></td><td>600</td><td></td><td>mV</td></tr><tr><td rowspan=\"2\">Nonlinearity (6)</td><td>LM61B</td><td></td><td>−0.6</td><td></td><td>0.6</td><td rowspan=\"2\">°C</td></tr><tr><td>LM61C</td><td></td><td>−0.8</td><td></td><td>0.8</td></tr><tr><td rowspan=\"2\">Sensor gain (average slope)</td><td>LM61B</td><td></td><td>9.7</td><td>10</td><td>10.3</td><td rowspan=\"2\">mV/°C</td></tr><tr><td>LM61C</td><td></td><td>9.6</td><td>10</td><td>10.4</td></tr><tr><td rowspan=\"3\">Output impedance</td><td>+VS = 3 V to 10 V</td><td></td><td></td><td></td><td>0.8</td><td rowspan=\"3\">kΩ</td></tr><tr><td>TA = −30°C to 85°C, +VS = 2.7 V</td><td></td><td></td><td></td><td>2.3</td></tr><tr><td>TA = 85°C to 100°C, +VS = 2.7 V</td><td></td><td></td><td></td><td>5</td></tr><tr><td rowspan=\"2\">Line regulation (7)</td><td>+VS = 3 V to 10 V</td><td></td><td>−0.7</td><td></td><td>0.7</td><td>mV/V</td></tr><tr><td>+VS = 2.7 V to 3.3 V</td><td></td><td>−5.7</td><td></td><td>5.7</td><td>mV</td></tr><tr><td rowspan=\"2\">Quiescent current</td><td rowspan=\"2\">+VS = 2.7 V to 10 V</td><td>TA = 25°C</td><td></td><td>82</td><td>125</td><td rowspan=\"2\">μA</td></tr><tr><td></td><td></td><td></td><td>155</td></tr><tr><td>Change of quiescent current</td><td>+VS = 2.7 V to 10 V</td><td></td><td></td><td>±5</td><td></td><td>μA</td></tr><tr><td>Temperature coefficient of quiescent current</td><td></td><td></td><td></td><td>0.2</td><td></td><td>μA/°C</td></tr><tr><td>Long term stability (8)</td><td colspan=\"2\">TJ = T MAX = 100°C, for 1000 hours</td><td></td><td>±0.2</td><td></td><td>°C</td></tr></table>",
+          "reading_order": 9
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            60,
+            600,
+            633,
+            745
+          ],
+          "text": "(1) Limits are specified to TIs AOQL (Average Outgoing Quality Level).\n(2) Typical limits represent most likely parametric norm.\n(3) Maximum and minimum limits apply for T A = T J = T MIN to T MAX .\n(4) Typical limits apply for T A = T J = 25°C.\n(5) Accuracy is defined as the error between the output voltage and 10 mV/°C multiplied by the device's case temperature plus 600 mV, at\nspecified conditions of voltage, current, and temperature (expressed in °C).\n(6) Nonlinearity is defined as the deviation of the output-voltage-versus-temperature curve from the best-fit straight line, over the device's\nrated temperature range.\n(7) Regulation is measured at constant junction temperature, using pulse testing with a low duty cycle. Changes in output due to heating\neffects can be computed by multiplying the internal dissipation by the thermal resistance.\n(8) For best long-term stability, any precision circuit gives best results if the unit is aged at a warm temperature, or temperature cycled for at\nleast 46 hours before long-term life test begins. This is especially true when a small (Surface-Mount) part is wave-soldered; allow time\nfor stress relaxation to occur. The majority of the drift occurs in the first 1000 hours at elevated temperatures. The drift after 1000 hours\ndoes not continue at the first 1000-hour rate.",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            69,
+            845
+          ],
+          "text": "一4",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            833,
+            633,
+            851
+          ],
+          "text": "Copyright 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            44,
+            633,
+            71
+          ],
+          "text": "LM61\n\n\n1\n\n\nJAJS924J –JUNE 1999–REVISED NOVEMBER 2016",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            129,
+            72
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            80,
+            230,
+            98
+          ],
+          "text": "6.6 Typical Characteristics",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            98,
+            593,
+            125
+          ],
+          "text": "The LM61 in the SOT-23 package mounted to a printed-circuit board as shown in Figure 18 was used to generate the\nfollowing thermal curves.",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_005.png)",
+          "figure_path": "figures/lm61_page_005_figure_005.png",
+          "bbox": [
+            51,
+            134,
+            355,
+            313
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            105,
+            328,
+            329,
+            340
+          ],
+          "text": "Figure 1. Junction-to-Ambient Thermal Resistance",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_007.png)",
+          "figure_path": "figures/lm61_page_005_figure_007.png",
+          "bbox": [
+            391,
+            134,
+            588,
+            313
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            427,
+            328,
+            571,
+            340
+          ],
+          "text": "Figure 2. Thermal Time Constant",
+          "reading_order": 8
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_009.png)",
+          "figure_path": "figures/lm61_page_005_figure_009.png",
+          "bbox": [
+            114,
+            340,
+            293,
+            510
+          ],
+          "reading_order": 9
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            96,
+            528,
+            331,
+            538
+          ],
+          "text": "Figure 3. Thermal Response in Still Air with Heat Sink",
+          "reading_order": 10
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_011.png)",
+          "figure_path": "figures/lm61_page_005_figure_011.png",
+          "bbox": [
+            400,
+            340,
+            579,
+            510
+          ],
+          "reading_order": 11
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            391,
+            528,
+            606,
+            548
+          ],
+          "text": "Figure 4. Thermal Response in Stirred Oil Bath\nwith Heat Sink",
+          "reading_order": 12
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_013.png)",
+          "figure_path": "figures/lm61_page_005_figure_013.png",
+          "bbox": [
+            51,
+            546,
+            347,
+            734
+          ],
+          "reading_order": 13
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            87,
+            740,
+            338,
+            752
+          ],
+          "text": "Figure 5. Thermal Response in Still Air without Heat Sink",
+          "reading_order": 14
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_005_figure_015.png)",
+          "figure_path": "figures/lm61_page_005_figure_015.png",
+          "bbox": [
+            400,
+            555,
+            588,
+            725
+          ],
+          "reading_order": 15
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            400,
+            740,
+            597,
+            752
+          ],
+          "text": "Figure 6. Quiescent Current vs Temperature",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            851
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            845
+          ],
+          "text": "5",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            88,
+            55
+          ],
+          "text": "LMI",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            62,
+            263,
+            72
+          ],
+          "text": "JAJS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            579,
+            62,
+            633,
+            71
+          ],
+          "text": "www.ti.com",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            268,
+            98
+          ],
+          "text": "Typical Characteristics (continued)",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            107,
+            593,
+            130
+          ],
+          "text": "The LM61 in the SOT-23 package mounted to a printed-circuit board as shown in Figure 18 was used to generate the\nfollowing thermal curves.",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_006_figure_006.png)",
+          "figure_path": "figures/lm61_page_006_figure_006.png",
+          "bbox": [
+            60,
+            133,
+            302,
+            304
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            140,
+            320,
+            293,
+            331
+          ],
+          "text": "Figure 7. Accuracy vs Temperature",
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_006_figure_008.png)",
+          "figure_path": "figures/lm61_page_006_figure_008.png",
+          "bbox": [
+            391,
+            125,
+            633,
+            304
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            451,
+            321,
+            545,
+            331
+          ],
+          "text": "Figure 8. Noise Voltage",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_006_figure_010.png)",
+          "figure_path": "figures/lm61_page_006_figure_010.png",
+          "bbox": [
+            114,
+            331,
+            302,
+            501
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            114,
+            519,
+            311,
+            532
+          ],
+          "text": "Figure 9. Supply Voltage vs Supply Current",
+          "reading_order": 11
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_006_figure_012.png)",
+          "figure_path": "figures/lm61_page_006_figure_012.png",
+          "bbox": [
+            355,
+            331,
+            624,
+            528
+          ],
+          "reading_order": 12
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            436,
+            546,
+            564,
+            556
+          ],
+          "text": "Figure 10. Start-Up Response",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            69,
+            845
+          ],
+          "text": "16",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            839,
+            633,
+            851
+          ],
+          "text": "Copyright © 1999–2016, Texas Instruments Incorporated",
+          "reading_order": 15
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            44,
+            633,
+            71
+          ],
+          "text": "LM61\n\n\n1\n\n\nJAJS924J –JUNE 1999–REVISED NOVEMBER 2016",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            120,
+            72
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            203,
+            98
+          ],
+          "text": "7 Detailed Descriptio",
+          "reading_order": 3
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            114,
+            149,
+            125
+          ],
+          "text": "7.1 Overview",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            134,
+            633,
+            208
+          ],
+          "text": "The LM61 is a precision integrated-circuit temperature sensor that can sense a –30°C to 100°C temperature\nrange using a single positive supply. The output voltage of the LM61 has a positive temperature slope of\n10 mV/°C. A 600-mV offset is included, enabling negative temperature sensing when biased by a single supply.\nThe temperature-sensing element is comprised of a delta-VBE architecture. The temperature-sensing element is\nthen buffered by an amplifier and provided to the VOUT pin. The amplifier has a simple class A output stage as\nshown in Functional Block Diagram.",
+          "reading_order": 5
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            222,
+            243,
+            235
+          ],
+          "text": "7.2 Functional Block Diagram",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_007_figure_007.png)",
+          "figure_path": "figures/lm61_page_007_figure_007.png",
+          "bbox": [
+            96,
+            241,
+            597,
+            483
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            492,
+            206,
+            510
+          ],
+          "text": "7.3 Feature Description",
+          "reading_order": 8
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            519,
+            224,
+            532
+          ],
+          "text": "7.3.1 LM61 Transfer Function",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            537,
+            633,
+            566
+          ],
+          "text": "The LM61 follows a simple linear transfer function to achieve the accuracy as listed in Electrical Characteristics.\nUse Equation 1 to calculate the value of VQ.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            569,
+            239,
+            582
+          ],
+          "text": "V0 = 10 mV/°C × T°C + 600 mV",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            87,
+            588,
+            114,
+            600
+          ],
+          "text": "when",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            130,
+            600,
+            242,
+            614
+          ],
+          "text": "T is the temperature in °C",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            128,
+            618,
+            266,
+            629
+          ],
+          "text": "Vo is the LM61 output voltage",
+          "reading_order": 14
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            642,
+            239,
+            654
+          ],
+          "text": "7.4 Device Functional Modes",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            663,
+            571,
+            674
+          ],
+          "text": "The only functional mode of the LM61 device is an analog output directly proportional to temperature.",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            851
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            845
+          ],
+          "text": "7",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            88,
+            55
+          ],
+          "text": "LMI",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            62,
+            263,
+            72
+          ],
+          "text": "JAJS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            579,
+            62,
+            633,
+            71
+          ],
+          "text": "www.ti.com",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            286,
+            98
+          ],
+          "text": "8 Application and Implementation",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            329,
+            115,
+            355,
+            125
+          ],
+          "text": "NOT",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            114,
+            125,
+            573,
+            179
+          ],
+          "text": "Information in the following applications sections is not part of the TI component\nspecification, and TI does not warrant its accuracy or completeness. TI's customers are\nresponsible for determining suitability of components for their purposes. Customers should\nvalidate and test their design implementation to confirm system functionality.",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            197,
+            230,
+            215
+          ],
+          "text": "8.1 Application Information",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            215,
+            633,
+            259
+          ],
+          "text": "The LM61 has a wide supply range and a 10-mV/°C output slope with a 600-mV DC. Therefore, it can be easily\napplied in many temperature-sensing applications where a single supply is required for positive and negative\ntemperatures.",
+          "reading_order": 8
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            268,
+            203,
+            286
+          ],
+          "text": "8.2 Typical Application",
+          "reading_order": 9
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            295,
+            294,
+            307
+          ],
+          "text": "8.2.1 Typical Temperature Sensing Circuit",
+          "reading_order": 10
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_008_figure_011.png)",
+          "figure_path": "figures/lm61_page_008_figure_011.png",
+          "bbox": [
+            189,
+            313,
+            499,
+            555
+          ],
+          "reading_order": 11
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            193,
+            555,
+            499,
+            573
+          ],
+          "text": "Figure 11. Typical Temperature Sensing Circuit Diagram",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            582,
+            223,
+            600
+          ],
+          "text": "8.2.1.1 Design Requirements",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            600,
+            492,
+            618
+          ],
+          "text": "For this design example, use the parameters listed in Table 1 as the input parameters",
+          "reading_order": 14
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            123,
+            645,
+            571,
+            725
+          ],
+          "text": "<table><tr><td>PARAMETER</td><td>VALUE</td></tr><tr><td>Power supply voltage</td><td>2.7 V to 3.3 V</td></tr><tr><td>Accuracy at 25°C</td><td>±2°C (maximum)</td></tr><tr><td>Accuracy over −25°C to 85°C</td><td>±3°C (maximum)</td></tr><tr><td>Temperature slope</td><td>10 mV/°C</td></tr></table>",
+          "reading_order": 15
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            266,
+            627,
+            420,
+            641
+          ],
+          "text": "Table 1. Design Parameters",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            69,
+            845
+          ],
+          "text": "一8",
+          "reading_order": 17
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            833,
+            633,
+            851
+          ],
+          "text": "Copyright 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            44,
+            633,
+            71
+          ],
+          "text": "LM61\n\n\n1\n\n\nJAJS924J –JUNE 1999–REVISED NOVEMBER 2016",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            129,
+            72
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            80,
+            251,
+            98
+          ],
+          "text": "8.2.1.2 Detailed Design Procedure",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            98,
+            633,
+            126
+          ],
+          "text": "The LM61 is a simple temperature sensor that provides an analog output. Therefore, design requirements related\nto layout outweigh other requirements in importance. See Layout for more information.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            134,
+            194,
+            152
+          ],
+          "text": "8.2.1.2.1 Capacitive Loads",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            158,
+            633,
+            269
+          ],
+          "text": "The LM61 handles capacitive loading well. Without any special precautions, the LM61 can drive any capacitive\nload as shown in Figure 12 . Over the specified temperature range the LM61 has a maximum output impedance\nof 5 k $\\Omega$ . In an extremely noisy environment it may be necessary to add some filtering to minimize noise pickup. It\nis recommended that 0.1- $\\mu$ F capacitor be added between +VS and GND to bypass the power-supply voltage, as\nshown in Figure 13 . In a noisy environment it may be necessary to add a capacitor from VOUT to ground. A 1- $\\mu$ F\noutput capacitor with the 5-k $\\Omega$ maximum output impedance forms a 32-Hz lowpass filter. Because the thermal\ntime constant of the LM61 is much slower than the 5-ms time constant formed by the RC, the overall response\ntime of the LM61 is not significantly affected. For much larger capacitors this additional time lag increases the\noverall response time of the LM61.",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_009_figure_007.png)",
+          "figure_path": "figures/lm61_page_009_figure_007.png",
+          "bbox": [
+            131,
+            277,
+            562,
+            394
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            176,
+            394,
+            517,
+            412
+          ],
+          "text": "Figure 12. LM61 No Decoupling Required for Capacitive Load",
+          "reading_order": 8
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_009_figure_009.png)",
+          "figure_path": "figures/lm61_page_009_figure_009.png",
+          "bbox": [
+            105,
+            421,
+            588,
+            618
+          ],
+          "reading_order": 9
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            203,
+            625,
+            484,
+            636
+          ],
+          "text": "Figure 13. LM61 with Filter for Noisy Environments",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            847
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            845
+          ],
+          "text": "9",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            88,
+            55
+          ],
+          "text": "LMI",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            263,
+            72
+          ],
+          "text": "JAJS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            579,
+            62,
+            633,
+            71
+          ],
+          "text": "www.ti.com",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            80,
+            203,
+            98
+          ],
+          "text": "8.2.1.3 Application Curve",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_010_figure_005.png)",
+          "figure_path": "figures/lm61_page_010_figure_005.png",
+          "bbox": [
+            248,
+            98,
+            436,
+            277
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            239,
+            277,
+            445,
+            295
+          ],
+          "text": "Figure 14. Accuracy vs Temperature",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            311,
+            239,
+            322
+          ],
+          "text": "8.2.2 Other Application Circuits",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            331,
+            633,
+            367
+          ],
+          "text": "Figure 15 shows an application circuit example using the LM61 device. Customers must fully validate and test\nany circuit before implementing a design based on an example in this section. Unless otherwise noted, the\ndesign procedures in Typical Temperature Sensing Circuit are applicable.",
+          "reading_order": 8
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_010_figure_009.png)",
+          "figure_path": "figures/lm61_page_010_figure_009.png",
+          "bbox": [
+            96,
+            376,
+            588,
+            582
+          ],
+          "reading_order": 9
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            248,
+            582,
+            438,
+            600
+          ],
+          "text": "Figure 15. Centigrade Thermostat",
+          "reading_order": 10
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_010_figure_011.png)",
+          "figure_path": "figures/lm61_page_010_figure_011.png",
+          "bbox": [
+            78,
+            618,
+            615,
+            743
+          ],
+          "reading_order": 11
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            193,
+            750,
+            499,
+            761
+          ],
+          "text": "Figure 16. Conserving Power Dissipation with Shutdown",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            71,
+            845
+          ],
+          "text": "10",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            833,
+            633,
+            851
+          ],
+          "text": "Copyright 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            44,
+            633,
+            71
+          ],
+          "text": "LM61\n\n\n1\n\n\nJAJS924J –JUNE 1999–REVISED NOVEMBER 2016",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            62,
+            129,
+            72
+          ],
+          "text": "www.ti.com",
+          "reading_order": 2
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            295,
+            98
+          ],
+          "text": "9 Power Supply Recommendations",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            107,
+            633,
+            134
+          ],
+          "text": "In an extremely noisy environment, it may be necessary to add filtering to minimize noise pickup. TI recommends\na 0.1-μF capacitor be added between +V S to GND to bypass the power-supply voltage, as shown in Figure 13 .",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            152,
+            132,
+            170
+          ],
+          "text": "10 Layout",
+          "reading_order": 5
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            179,
+            204,
+            197
+          ],
+          "text": "10.1 Layout Guidelines",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            206,
+            153,
+            224
+          ],
+          "text": "10.1.1 Mounting",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            224,
+            633,
+            264
+          ],
+          "text": "The LM61 can be applied easily in the same way as other integrated-circuit temperature sensors. It can be glued\nor cemented to a surface. The temperature that the LM61 senses is within about 0.2°C of the surface\ntemperature that LM61's leads are attached to.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            268,
+            633,
+            308
+          ],
+          "text": "This presumes that the ambient air temperature is almost the same as the surface temperature; if the air\ntemperature is much higher or lower than the surface temperature, the actual temperature measured would be\nat an intermediate temperature between the surface temperature and the air temperatures.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            313,
+            633,
+            350
+          ],
+          "text": "To ensure good thermal conductivity the backside of the LM61 die is directly attached to the GND pin. The lands\nand traces to the LM61 are part of the printed-circuit board, which is the object whose temperature is being\nmeasured.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            358,
+            633,
+            421
+          ],
+          "text": "Alternatively, the LM61 can be mounted inside a sealed-end metal tube, and can then be dipped into a bath or\nscrewed into a threaded hole in a tank. As with any IC, the LM61 and accompanying wiring and circuits must be\nkept insulated and dry, to avoid leakage and corrosion. This is especially true if the circuit may operate at cold\ntemperatures where condensation can occur. Printed-circuit coatings and varnishes such as Humiseal and epoxy\npaints or dips are often used to ensure that moisture cannot corrode the device or connections.",
+          "reading_order": 11
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            430,
+            203,
+            448
+          ],
+          "text": "10.2 Layout Examples",
+          "reading_order": 12
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_011_figure_013.png)",
+          "figure_path": "figures/lm61_page_011_figure_013.png",
+          "bbox": [
+            266,
+            448,
+            427,
+            583
+          ],
+          "reading_order": 13
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            185,
+            591,
+            508,
+            604
+          ],
+          "text": "Figure 17. Recommended Solder Pads for SOT-23 Package",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            851
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            842
+          ],
+          "text": ".",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            272,
+            72
+          ],
+          "text": "LM61\n\nJAXS924J-JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            80,
+            239,
+            98
+          ],
+          "text": "Layout Examples (continued)",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_012_figure_003.png)",
+          "figure_path": "figures/lm61_page_012_figure_003.png",
+          "bbox": [
+            248,
+            107,
+            445,
+            322
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            149,
+            330,
+            548,
+            341
+          ],
+          "text": "Figure 18. Printed-Circuit Board Used for Heat Sink to Generate All Curves",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_012_figure_005.png)",
+          "figure_path": "figures/lm61_page_012_figure_005.png",
+          "bbox": [
+            248,
+            358,
+            436,
+            591
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            284,
+            600,
+            409,
+            611
+          ],
+          "text": "Figure 19. PCB Layout",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            635,
+            239,
+            645
+          ],
+          "text": "10.3 Thermal Considerations",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            654,
+            633,
+            727
+          ],
+          "text": "The junction-to-ambient thermal resistance is the parameter used to calculate the rise of a device junction\ntemperature due to its power dissipation. For the LM61, Equation 2 is used to calculate the rise in the die\ntemperature.\n\n$$\nT_{J}=T_{A}+R_{0 \\mid A} \\times\\left(\\left(+V_{S} \\times I_{Q}\\right)+\\left(+V_{S}-V_{O}\\right) \\times I_{L}\\right)\n$$\n\nwhere",
+          "reading_order": 8
+        },
+        {
+          "label": "list",
+          "bbox": [
+            104,
+            734,
+            213,
+            744
+          ],
+          "text": "o is the quiescent currer",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            104,
+            744,
+            257,
+            761
+          ],
+          "text": "${ }_{L}$ is the load current on the output",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            761,
+            633,
+            788
+          ],
+          "text": "Table 2 summarizes the rise in die temperature of the LM61 without any loading with a 3.3-V supply, and the\nthermal resistance for different conditions.",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            71,
+            845
+          ],
+          "text": "12",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            839,
+            633,
+            851
+          ],
+          "text": "Copyright © 1999–2016, Texas Instruments Incorporated",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            87,
+            23,
+            167,
+            44
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            606,
+            44,
+            633,
+            55
+          ],
+          "text": "-M61",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            62,
+            129,
+            72
+          ],
+          "text": "www.tij.co.jp",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            436,
+            62,
+            633,
+            71
+          ],
+          "text": "JAJS924J -JUNE 1999-REVISED NOVEMBER 2016",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            123,
+            107,
+            571,
+            250
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td>R 0,IA (°C/W)</td><td>T J – T A (°C)</td></tr><tr><td rowspan=\"4\">SOT-23</td><td rowspan=\"2\">No heat sink(1)</td><td>Still air</td><td>450</td><td>0.26</td></tr><tr><td>Moving air</td><td>—</td><td>—</td></tr><tr><td rowspan=\"2\">Small heat fin(2)</td><td>Still air</td><td>260</td><td>0.13</td></tr><tr><td>Moving air</td><td>180</td><td>0.09</td></tr><tr><td rowspan=\"4\">TO-92</td><td rowspan=\"2\">No heat sink(1)</td><td>Still air</td><td>180</td><td>0.09</td></tr><tr><td>Moving air</td><td>90</td><td>0.05</td></tr><tr><td rowspan=\"2\">Small heat fin(3)</td><td>Still air</td><td>140</td><td>0.07</td></tr><tr><td>Moving air</td><td>70</td><td>0.03</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            130,
+            80,
+            562,
+            107
+          ],
+          "text": "Table 2. Temperature Rise of LM61 Due to Self-Heating and Thermal Resistance\n(R 0JA )",
+          "reading_order": 5
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            123,
+            250,
+            555,
+            286
+          ],
+          "text": "(1) Part soldered to 30 gauge wire.\n(2) Heat sink used is 1/2 in. 2 printed -circuit board with 2-oz foil with part attached as shown in Figure 18\n(3) Part glued and leads soldered to 1 in. 2 of 1/16 in. printed circuit board with 2-oz foil or similar.",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            194,
+            313,
+            499,
+            421
+          ],
+          "text": "<table><tr><td>TEMPERATURE</td><td>V O (TYPICAL)</td></tr><tr><td>100°C</td><td>1600 mV</td></tr><tr><td>85°C</td><td>1450 mV</td></tr><tr><td>25°C</td><td>850 mV</td></tr><tr><td>0°C</td><td>600 mV</td></tr><tr><td>−25°C</td><td>350 mV</td></tr><tr><td>−30°C</td><td>300 mV</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            227,
+            295,
+            464,
+            308
+          ],
+          "text": "Table 3. Temperature and Typical V O Values",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            266,
+            847
+          ],
+          "text": "Copyright © 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            624,
+            833,
+            633,
+            845
+          ],
+          "text": "3",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            44,
+            88,
+            55
+          ],
+          "text": "LMI",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            553,
+            24,
+            633,
+            44
+          ],
+          "text": "TEXAS\nINSTRUMENTS",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            62,
+            272,
+            72
+          ],
+          "text": "JAJS924J —JUNE 1999—REVISED NOVEMBER 2016",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            571,
+            62,
+            633,
+            71
+          ],
+          "text": "www.tij.co.jp",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            80,
+            331,
+            98
+          ],
+          "text": "11 デバイスおよびドキュメントのサポート",
+          "reading_order": 4
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            112,
+            149,
+            125
+          ],
+          "text": "11.1 関連資料",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            134,
+            284,
+            145
+          ],
+          "text": "関連資料については、 以下を参照してください。",
+          "reading_order": 6
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            145,
+            347,
+            161
+          ],
+          "text": "• 『 TO-92のバッケージ•オブションと注文情報』 (SNOA072)",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            60,
+            161,
+            320,
+            179
+          ],
+          "text": "・ 『 リモート・システム用の小型温度センサ』 (SNIA009)",
+          "reading_order": 8
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            187,
+            320,
+            200
+          ],
+          "text": "11.2 ドキュメントの更新通知を受け取る方法",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            206,
+            625,
+            244
+          ],
+          "text": "ドキュメントの更新についての通知を受け取るには、 ti.comのデバイス製品フォルダを開いてください。 右上の隅にある「 通\n知を受け取る」 をクリックして登録すると、 変更されたすべての製品情報に関するダイジェストを毎週受け取れます。 変更の\n詳細については、 修正されたドキュメントに含まれている改訂履歴をご覧ください。",
+          "reading_order": 10
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            258,
+            239,
+            270
+          ],
+          "text": "11.3 コミュニティ・リソース",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            277,
+            633,
+            313
+          ],
+          "text": "The following links connect to TI community resources. Linked contents are provided \"AS IS\" by the respective\ncontributors. They do not constitute TI specifications and do not necessarily reflect TI's views; see TI's Terms of\nUse.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            322,
+            624,
+            359
+          ],
+          "text": "TI E2ETM Online Community TI's Engineer-to-Engineer (E2E) Community. Created to foster collaboration\namong engineers. At e2e.ti.com, you can ask questions, share knowledge, explore ideas and help\nsolve problems with fellow engineers.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            367,
+            606,
+            394
+          ],
+          "text": "Design Support TI's Design Support Quickly find helpful E2E forums along with design support tools and\ncontact information for technical support.",
+          "reading_order": 14
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            401,
+            115,
+            414
+          ],
+          "text": "11.4 商標",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            420,
+            267,
+            430
+          ],
+          "text": "E2E is a trademark of Texas Instruments",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            430,
+            382,
+            448
+          ],
+          "text": "All other trademarks are the property of their respective owners.",
+          "reading_order": 17
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            448,
+            258,
+            465
+          ],
+          "text": "11.5 静電気放電に関する注意事項",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            96,
+            465,
+            445,
+            476
+          ],
+          "text": "すべての集積回路は、適切なESD保護方法を用いて、取援いと保存を行うようにして下さい。",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            96,
+            483,
+            633,
+            503
+          ],
+          "text": "静電気放電はわずかな性能の低下から完全なデバイスの故障に歪るまで、様々な損傷を与えます。高精度の集積回路は、損傷に対して敏感\nであり、極めてわずかなパラメータの変化により、デバイスに規定された仕様に適合しなくなる場合があります。",
+          "reading_order": 20
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            60,
+            518,
+            149,
+            531
+          ],
+          "text": "11.6 Glossary",
+          "reading_order": 21
+        },
+        {
+          "label": "sub_sub_sec",
+          "bbox": [
+            60,
+            537,
+            186,
+            549
+          ],
+          "text": "SLYZ022 — TI Glossary:",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            553,
+            405,
+            564
+          ],
+          "text": "This glossary lists and explains terms, acronyms, and definitions",
+          "reading_order": 23
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            582,
+            347,
+            600
+          ],
+          "text": "12 メカニカル、パッケージ、および注文情報",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            609,
+            624,
+            645
+          ],
+          "text": "以降のベージには、メカニカル、パッケージ、および注文に関する情報が記載されています。この情報は、そのデバイスに\nついて利用可能な最新のデータです。このデータは予告なく変更されることがあり、ドキュメントが改訂される場合もありま\nす。本データシートのブラウザ版を使用されている場合は、画面左側の説明をご覧ください。",
+          "reading_order": 25
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            60,
+            832,
+            70,
+            845
+          ],
+          "text": "14",
+          "reading_order": 26
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            427,
+            833,
+            633,
+            851
+          ],
+          "text": "Copyright 1999-2016, Texas Instruments Incorporated",
+          "reading_order": 27
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            67,
+            21,
+            144,
+            48
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            627,
+            16,
+            851,
+            30
+          ],
+          "text": "PACKAGE OPTION ADDENDUM",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            35,
+            48,
+            80,
+            60
+          ],
+          "text": "www.li.com",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            805,
+            53,
+            851,
+            60
+          ],
+          "text": "30-Jun-2025",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            17,
+            127,
+            869,
+            603
+          ],
+          "text": "<table><tr><td>Orderable part number</td><td>Status (1)</td><td>Material type (2)</td><td>Package | Pins</td><td>Package qty | Carrier</td><td>RoHS (3)</td><td>Lead finish/ Ball material (4)</td><td>MSL rating/Peak reflow (5)</td><td>Op temp (°C)</td><td>Part marking (6)</td></tr><tr><td>LM61BM3</td><td>NRND</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>1000 | LARGE T&amp;R</td><td>No</td><td>Call TI</td><td>Level-1-260C-UNLIM</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BM3.B</td><td>NRND</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>1000 | LARGE T&amp;R</td><td>No</td><td>Call TI</td><td>Level-1-260C-UNLIM</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BM3.NOPB</td><td>Obsolete</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>-</td><td>-</td><td>Call TI</td><td>Call TI</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BM3X/NOPB</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BM3X/NOPB.A</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BM3X/NOPB.B</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-25 to 85</td><td>T1B</td></tr><tr><td>LM61BIZ/LFT3</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>2000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-25 to 85</td><td>LM61BIZ</td></tr><tr><td>LM61BIZ/LFT3.B</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>2000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-25 to 85</td><td>LM61BIZ</td></tr><tr><td>LM61BIZ/NOPB</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-25 to 85</td><td>LM61BIZ</td></tr><tr><td>LM61BIZ/NOPB.A</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-25 to 85</td><td>LM61BIZ</td></tr><tr><td>LM61BIZ/NOPB.B</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-25 to 85</td><td>LM61BIZ</td></tr><tr><td>LM61CIM3</td><td>NRND</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>1000 | LARGE T&amp;R</td><td>No</td><td>Call TI</td><td>Level-1-260C-UNLIM</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIM3.B</td><td>NRND</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>1000 | LARGE T&amp;R</td><td>No</td><td>Call TI</td><td>Level-1-260C-UNLIM</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIM3NOPB</td><td>Obsolete</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>-</td><td>-</td><td>Call TI</td><td>Call TI</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIM3X/NOPB</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIM3X/NOPB.A</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIM3X/NOPB.B</td><td>Active</td><td>Production</td><td>SOT-23 (DBZ) | 3</td><td>3000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>Level-1-260C-UNLIM</td><td>-30 to 100</td><td>T1C</td></tr><tr><td>LM61CIZ/LFT2</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>2000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-30 to 100</td><td>LM61CIZ</td></tr><tr><td>LM61CIZ/LFT2.B</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>2000 | LARGE T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-30 to 100</td><td>LM61CIZ</td></tr><tr><td>LM61CIZ/NOPB</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-30 to 100</td><td>LM61CIZ</td></tr><tr><td>LM61CIZ/NOPB.A</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-30 to 100</td><td>LM61CIZ</td></tr><tr><td>LM61CIZ/NOPB.B</td><td>Active</td><td>Production</td><td>TO-92 (LP) | 3</td><td>1800 | SMALL T&amp;R</td><td>Yes</td><td>SN</td><td>N/A for Pkg Type</td><td>-30 to 100</td><td>LM61CIZ</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            17,
+            106,
+            179,
+            116
+          ],
+          "text": "PACKAGING INFORMATION",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            410,
+            603,
+            483,
+            613
+          ],
+          "text": "Addendum-Page 1",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            67,
+            21,
+            144,
+            48
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            627,
+            16,
+            851,
+            30
+          ],
+          "text": "PACKAGE OPTION ADDENDUM",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            35,
+            54,
+            80,
+            60
+          ],
+          "text": "www.li.com",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            805,
+            53,
+            851,
+            60
+          ],
+          "text": "30-Jun-2025",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            116,
+            268,
+            128
+          ],
+          "text": "(1) Status: For more details on status, see our product life cycle.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            144,
+            869,
+            176
+          ],
+          "text": "(2) Material type: When designated, preproduction parts are prototypes/experimental devices, and are not yet approved or released for full production. Testing and final process, including without limitation quality assurance,\nreliability performance testing, and/or process qualification, may not yet be complete, and this item is subject to further changes or possible discontinuation. If available for ordering, purchases will be subject to an additional\nwaiver at checkout, and are intended for early internal evaluation purposes only. These items are sold without warranties of any kind.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            193,
+            465,
+            205
+          ],
+          "text": "(3) RoHS values: Yes, No, RoHS Exempt. See the TI RoHS Statement for additional information and value definition.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            218,
+            869,
+            241
+          ],
+          "text": "(4) Lead finish/Ball material: Parts may have multiple material finish options. Finish options are separated by a vertical ruled line. Lead finish/Ball material values may wrap to two lines if the finish value exceeds the maximum\ncolumn width.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            260,
+            869,
+            282
+          ],
+          "text": "(8) MSL rating/Peak reflow: The moisture sensitivity level ratings and peak solder (reflow) temperatures. In the event that a part has multiple moisture sensitivity ratings, only the lowest level per JEDEC standards is shown.\nRefer to the shipping label for the actual reflow temperature that will be used to mount the part to the printed circuit board.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            298,
+            600,
+            311
+          ],
+          "text": "(6) Part marking: There may be an additional marking, which relates to the logo, the lot trace code information, or the environmental category of the part.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            325,
+            869,
+            346
+          ],
+          "text": "Multiple part markings will be inside parentheses. Only one part marking contained in parentheses and separated by a ~~* will appear on a part. If a line is indented then it is a continuation of the previous line and the two\ncombined represent the entire part marking for that device.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            361,
+            869,
+            403
+          ],
+          "text": "Important Information and Disclaimer:The information provided on this page represents TTs knowledge and belief as of the date that it is provided. TI bases its knowledge and belief on information provided by third parties, and\nmakes no representation or warranty as to the accuracy of such information. Efforts are underway to better integrate information from third parties. TI has taken and continues to take reasonable steps to provide representative\nand accurate information but may not have conducted destructive testing or chemical analysis on incoming materials and chemicals. TI and TI suppliers consider certain information to be proprietary, and thus CAS numbers\nand other limited information may not be available for release.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            17,
+            415,
+            680,
+            428
+          ],
+          "text": "In no event shall TTs liability arising out of such information exceed the total purchase price of the TI part(s) at issue in this document sold by TI to Customer on an annual basis.",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            410,
+            603,
+            483,
+            613
+          ],
+          "text": "Addendum-Page 2",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            100,
+            35,
+            176,
+            62
+          ],
+          "text": "Texas\nINSTRUMENT",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            354,
+            26,
+            646,
+            46
+          ],
+          "text": "PACKAGE MATERIALS INFORMATION",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            71,
+            113,
+            89
+          ],
+          "text": "www.t.com",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            605,
+            71,
+            643,
+            89
+          ],
+          "text": "5-Jul-202",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_017_figure_004.png)",
+          "figure_path": "figures/lm61_page_017_figure_004.png",
+          "bbox": [
+            68,
+            97,
+            641,
+            573
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            832,
+            409,
+            842
+          ],
+          "text": "Pack Materials-Page 1",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            100,
+            35,
+            176,
+            62
+          ],
+          "text": "Texas\nINSTRUMENT",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            354,
+            33,
+            644,
+            46
+          ],
+          "text": "PACKAGE MATERIALS INFORMATION",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_018_figure_002.png)",
+          "figure_path": "figures/lm61_page_018_figure_002.png",
+          "bbox": [
+            68,
+            97,
+            614,
+            465
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            76,
+            79,
+            113,
+            89
+          ],
+          "text": "www.b.com",
+          "reading_order": 3
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            68,
+            474,
+            175,
+            483
+          ],
+          "text": "\"All dimensions are nominal",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            68,
+            483,
+            615,
+            537
+          ],
+          "text": "<table><tr><td>Device</td><td>Package Type</td><td>Package Drawing</td><td>Pins</td><td>SPQ</td><td>Length (mm)</td><td>Width (mm)</td><td>Height (mm)</td></tr><tr><td>LM61BIM3X/NOPB</td><td>SOT-23</td><td>DBZ</td><td>3</td><td>3000</td><td>208.0</td><td>191.0</td><td>35.0</td></tr><tr><td>LM61CIM3X/NOPB</td><td>SOT-23</td><td>DBZ</td><td>3</td><td>3000</td><td>208.0</td><td>191.0</td><td>35.0</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            832,
+            410,
+            842
+          ],
+          "text": "Pack Materials-Page 2",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            69,
+            154,
+            83
+          ],
+          "text": "DBZ0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            412,
+            42,
+            633,
+            89
+          ],
+          "text": "PACKAGE OUTLINE\n\nSOT-23 - 1.12 mm max height",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            490,
+            89,
+            625,
+            102
+          ],
+          "text": "SMALL OUTLINE TRANSISTOR",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_019_figure_003.png)",
+          "figure_path": "figures/lm61_page_019_figure_003.png",
+          "bbox": [
+            114,
+            167,
+            615,
+            430
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_019_figure_004.png)",
+          "figure_path": "figures/lm61_page_019_figure_004.png",
+          "bbox": [
+            96,
+            465,
+            418,
+            593
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            723,
+            97,
+            734
+          ],
+          "text": "NOTES:",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            529,
+            705,
+            633,
+            716
+          ],
+          "text": "4214838/F 08/2024",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            743,
+            580,
+            763
+          ],
+          "text": "1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancin\nper ASME Y14.5M.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            763,
+            266,
+            773
+          ],
+          "text": "2. This drawing is subject to change without notic",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            773,
+            355,
+            783
+          ],
+          "text": "3. Reference JEDEC registration TO-236, except minimum foot length.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            783,
+            266,
+            793
+          ],
+          "text": "4. Support pin may differ or may not be present.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            794,
+            588,
+            815
+          ],
+          "text": "5. Body dimensions do not include mold flash, protrusions, or gate burrs. Mold flash, protrusions, or gate burrs shall not exceed\n0.25mm per side",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            329,
+            848,
+            418,
+            872
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            338,
+            875,
+            392,
+            887
+          ],
+          "text": "www.ti.com",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            69,
+            69,
+            154,
+            83
+          ],
+          "text": "DBZ0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            400,
+            35,
+            633,
+            56
+          ],
+          "text": "EXAMPLE BOARD LAYOUT",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            412,
+            71,
+            632,
+            89
+          ],
+          "text": "SOT-23 - 1.12 mm max height",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            490,
+            89,
+            625,
+            102
+          ],
+          "text": "SMALL OUTLINE TRANSISTOR",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_020_figure_004.png)",
+          "figure_path": "figures/lm61_page_020_figure_004.png",
+          "bbox": [
+            203,
+            170,
+            490,
+            358
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            299,
+            385,
+            445,
+            412
+          ],
+          "text": "LAND PATTERN EXAMPLE\nSCALE:15X",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_020_figure_006.png)",
+          "figure_path": "figures/lm61_page_020_figure_006.png",
+          "bbox": [
+            131,
+            474,
+            311,
+            620
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_020_figure_008.png)",
+          "figure_path": "figures/lm61_page_020_figure_008.png",
+          "bbox": [
+            355,
+            474,
+            576,
+            577
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            427,
+            591,
+            499,
+            610
+          ],
+          "text": "SOLDER MASK\nDEFINED",
+          "reading_order": 9
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            300,
+            627,
+            432,
+            645
+          ],
+          "text": "SOLDER MASK DETAILS",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            723,
+            149,
+            734
+          ],
+          "text": "NOTES: (continued)",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            529,
+            705,
+            633,
+            716
+          ],
+          "text": "4214838/F 08/2024",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            743,
+            277,
+            753
+          ],
+          "text": "5. Publication IPC-7351 may have alternate designs",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            753,
+            481,
+            763
+          ],
+          "text": "6. Solder mask tolerances between and around signal pads can vary based on board fabrication site.",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            329,
+            848,
+            418,
+            872
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            338,
+            875,
+            392,
+            887
+          ],
+          "text": "www.ti.com",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            69,
+            69,
+            154,
+            83
+          ],
+          "text": "DBZ0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            391,
+            35,
+            633,
+            86
+          ],
+          "text": "EXAMPLE STENCIL DESIGN\n\nSOT-23 - 1.12 mm max height",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            490,
+            89,
+            625,
+            102
+          ],
+          "text": "SMALL OUTLINE TRANSISTOR",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_021_figure_003.png)",
+          "figure_path": "figures/lm61_page_021_figure_003.png",
+          "bbox": [
+            185,
+            206,
+            481,
+            412
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            283,
+            430,
+            419,
+            459
+          ],
+          "text": "SOLDER PASTE EXAMPL\nBASED ON 0.125 THICK STENCI\nSCALE:15X",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            723,
+            149,
+            734
+          ],
+          "text": "NOTES: (continued)",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            529,
+            705,
+            633,
+            716
+          ],
+          "text": "4214838/F 08/2024",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            743,
+            606,
+            763
+          ],
+          "text": "7. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\ndesign recommendations.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            763,
+            391,
+            773
+          ],
+          "text": "8. Board assembly site may have different recommendations for stencil design.",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            329,
+            848,
+            418,
+            887
+          ],
+          "text": "TEXAS\nINSTRUMENTS\nwww.ti.com",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            69,
+            140,
+            83
+          ],
+          "text": "LP0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            412,
+            42,
+            633,
+            89
+          ],
+          "text": "PACKAGE OUTLINE\n\nTO-92 - 5.34 mm max height",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            606,
+            94,
+            633,
+            102
+          ],
+          "text": "0-92",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_022_figure_003.png)",
+          "figure_path": "figures/lm61_page_022_figure_003.png",
+          "bbox": [
+            51,
+            114,
+            633,
+            694
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            698,
+            105,
+            709
+          ],
+          "text": "NOTES:",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            721,
+            589,
+            751
+          ],
+          "text": "1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\nper ASME Y14.5M.\n2. This drawing is subject to change without notice.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            751,
+            276,
+            759
+          ],
+          "text": "3. Lead dimensions are not controlled within this a",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            761,
+            244,
+            770
+          ],
+          "text": "4. Reference JEDEC TO-226, variation AA",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            770,
+            150,
+            781
+          ],
+          "text": "5. Shipping method:",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            781,
+            284,
+            791
+          ],
+          "text": "a. Straight lead option available in bulk pack only.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            791,
+            338,
+            801
+          ],
+          "text": "b. Formed lead option available in tape and reel or ammo pack",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            77,
+            801,
+            481,
+            822
+          ],
+          "text": "c. Specific products can be offered in limited combinations of shipping medium and lead options.\nd. Consult product folder for more information on available options.",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            329,
+            848,
+            418,
+            872
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 14
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            338,
+            875,
+            392,
+            887
+          ],
+          "text": "www.ti.com",
+          "reading_order": 15
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            69,
+            140,
+            83
+          ],
+          "text": "LP0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            400,
+            42,
+            633,
+            56
+          ],
+          "text": "EXAMPLE BOARD LAYOUT",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            412,
+            71,
+            632,
+            89
+          ],
+          "text": "TO-92 - 5.34 mm max height",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            606,
+            94,
+            625,
+            102
+          ],
+          "text": "0-92",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_023_figure_004.png)",
+          "figure_path": "figures/lm61_page_023_figure_004.png",
+          "bbox": [
+            176,
+            161,
+            571,
+            349
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            275,
+            367,
+            421,
+            398
+          ],
+          "text": "LAND PATTERN EXAMPLE\nSTRAIGHT LEAD OPTION\nNON-SOLDER MASK DEFINED",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            284,
+            400,
+            374,
+            412
+          ],
+          "text": "SCALE:15X",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_023_figure_007.png)",
+          "figure_path": "figures/lm61_page_023_figure_007.png",
+          "bbox": [
+            105,
+            474,
+            597,
+            627
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            284,
+            652,
+            429,
+            692
+          ],
+          "text": "LAND PATTERN EXAMPLE\nFORMED LEAD OPTION\nNON-SOLDER MASK DEFINED\nSCALE:15X",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            544,
+            719,
+            633,
+            741
+          ],
+          "text": "4215214/C 04/2025",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            329,
+            848,
+            418,
+            872
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 10
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            338,
+            875,
+            392,
+            887
+          ],
+          "text": "www.ti.com",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            69,
+            69,
+            140,
+            83
+          ],
+          "text": "LP0003A",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            412,
+            42,
+            633,
+            89
+          ],
+          "text": "TAPE SPECIFICATIONS\n\nTO-92 - 5.34 mm max height",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            600,
+            89,
+            626,
+            102
+          ],
+          "text": "TO-92",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/lm61_page_024_figure_003.png)",
+          "figure_path": "figures/lm61_page_024_figure_003.png",
+          "bbox": [
+            51,
+            107,
+            633,
+            716
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            329,
+            848,
+            418,
+            872
+          ],
+          "text": "Texas\nINSTRUMENTS",
+          "reading_order": 4
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            338,
+            875,
+            392,
+            887
+          ],
+          "text": "www.ti.com",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "label": "sec",
+          "bbox": [
+            265,
+            59,
+            420,
+            72
+          ],
+          "text": "重要なお知らせと免責事項",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            79,
+            624,
+            125
+          ],
+          "text": "テキサス・インスツルメンツは、 技術データと信頼性データ(データシートを含みます)、 設計リリース(リファレンス デザインを含みま\nす)、 アブリケーションや設計に関する各種アドバイス、 Web ツール、 安全性情報、 その他のリソースを、 欠陥ガ存在する可能性のある\n「 現状のまま」 提供しており、 商品性および特定目的に対する適合性の黙示保証、 第三者の知的財産権の非便害保証を含むいガなる保証\nも、 明示的または黙示的にがかわらず拒否します。",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            125,
+            633,
+            170
+          ],
+          "text": "これらのリソースは、テキサス・インスツルメンツ製品を使用する設計の経験を積んだ開発者への提供を意図したものです。(1)お客様\nのアプリケーションに適した テキサス・インスツルメンツ製品の選定、(2)お客様のアプリケーションの設計、検缸、試験、(3)お客様の\nアプリケーションに談当する各種規格や、その他のあらゆる安全性、セキュリティ、規制、または他の要件への確実な適合に関する責任\nを、お客様のみが单独で負うものとします。",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            170,
+            633,
+            241
+          ],
+          "text": "上記の各種リソースは、予告な<変更される可能性ガあります。これらのリソースは、リソースで脱明されているテキサス・インスツル\nメンツ製品を使用するアプリケーションの開発の目的でのみ、テキサス・インスツルメンツはその使用をお客様に許諾します。これらの\nリソースに関して、他の目的で複製することや掲載することは禁止されています。テキサス・インスツルメンツや第三者の知的財産権の\nライセンスガ付与されている訳ではありません。お客様は、これらのリソースを自身で使用した結果発生するあらゆる申し立て、損害、\n費用、損失、責任について、テキサス・インスツルメンツおよびその代理人を完全に補償するものとし、テキサス・インスツルメンツは\n一切の責任を拒否します。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            241,
+            633,
+            286
+          ],
+          "text": "テキサス・インスツルメンツの製品は、 テキサス・インスツルメンツの販売条件、 または ti.com やガガる テキサス・インスツルメンツ\n製品の関連資料などのいすれがを通じて提供する適用可能な条項の下で提供されています。 テキサス・インスツルメンツガこれらのリソ\nースを提供することは、 適用される テキサス・インスツルメンツの保証または他の保証の放棄の拡大や変更を意味するものではありませ\nん。",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            286,
+            633,
+            304
+          ],
+          "text": "书客様がいかなる追加条項または代替条項を提案した場合でも、 テキサス・インスツルメンツはそれらに異議を唱え、 拒否します。",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            185,
+            329,
+            503,
+            351
+          ],
+          "text": "邮送先住所: Texas Instruments, Post Office Box 655303, Dallas, Texas 75265\nCopyright © 2025, Texas Instruments Incorporated",
+          "reading_order": 6
+        }
+      ]
+    }
+  ]
+}

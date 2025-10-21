@@ -1,0 +1,2104 @@
+{
+  "source_file": "F:\\KeyWordSystem\\data\\A700000011376168.pdf",
+  "total_pages": 8,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            587,
+            35
+          ],
+          "text": "Weidmüller 王",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            26,
+            155,
+            49
+          ],
+          "text": "データシート",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            586,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\n\nKlingenbergstraße 26\n\nD-32758 Detmold\n\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_001_figure_005.png)",
+          "figure_path": "figures/A700000011376168_page_001_figure_005.png",
+          "bbox": [
+            93,
+            206,
+            236,
+            403
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            145,
+            179,
+            193,
+            197
+          ],
+          "text": "図に類似",
+          "reading_order": 6
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_001_figure_007.png)",
+          "figure_path": "figures/A700000011376168_page_001_figure_007.png",
+          "bbox": [
+            324,
+            303,
+            505,
+            349
+          ],
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            44,
+            430,
+            300,
+            492
+          ],
+          "text": "WAS/WAZ6 TTA は、 PC て構成可能なユニバーサルシ\nグナルコンバータおよびトリップアンプマす。 単一のモ\nジュールて分離、 伝送、 線形化、 トリップ増幅の機能が\n組み合わされます。",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            492,
+            299,
+            519
+          ],
+          "text": "これらの優れた特性と優れた構成機能を組み合わせるこ\nとて、 TTA は非常に特徴的なものになります。",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            519,
+            300,
+            558
+          ],
+          "text": "TTA は広い電圧および周囲温度ての、 安定性と精度を備\nえています。 それは標準センサーの種類に対応していま\nす。",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            564,
+            309,
+            609
+          ],
+          "text": "參考資料\n\n• 全般的入力信号:抵抗温度計、 サーモカップル、 ポテン\nショメータ、 周波数送信機、 直流電圧信号、 電流信号な\nどの温度信号",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            609,
+            209,
+            627
+          ],
+          "text": "・ループ駆動式またはパッシブ入カ",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            627,
+            211,
+            637
+          ],
+          "text": "· 広範囲の電源: 18 264 V AC / DC",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            637,
+            156,
+            654
+          ],
+          "text": "• コーザー定義の線形化",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            654,
+            191,
+            664
+          ],
+          "text": "• PC 上て入カと出力を設定可能",
+          "reading_order": 15
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            664,
+            237,
+            680
+          ],
+          "text": "・アナログ出カとリレー出力の組み合わせ",
+          "reading_order": 16
+        },
+        {
+          "label": "list",
+          "bbox": [
+            46,
+            680,
+            200,
+            692
+          ],
+          "text": "• 周囲温度範囲は - 40 C ~ 70 C",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            707,
+            308,
+            734
+          ],
+          "text": "CBX200 USBインターフェースは、 PC への接続に使用さ\nれまず。",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            44,
+            734,
+            300,
+            761
+          ],
+          "text": "WAS/WAZ6 TTA は、 ATEX Zone 2 および UL C1D2 の\n承認を含むオブションとしても提供されます。",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            322,
+            430,
+            388,
+            440
+          ],
+          "text": "一般注文データ",
+          "reading_order": 20
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            317,
+            448,
+            588,
+            564
+          ],
+          "text": "<table><tr><td>バージョン</td><td>入カ : EX. 汎用U、I、R、B、出カ : I/U汎用. リレー×2</td></tr><tr><td>注文番号</td><td>8964320000</td></tr><tr><td>禮別</td><td>WAZ6 TTA EX</td></tr><tr><td>GTIN (EAN)</td><td>4032248782284</td></tr><tr><td>数量</td><td>1 Stock</td></tr><tr><td>配送ステータス</td><td>この記事は今後ご利用いただけなくなります。</td></tr><tr><td>利用可能期限</td><td>2023-12-30</td></tr><tr><td>代替製品</td><td>1481960000</td></tr></table>",
+          "reading_order": 21
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            841,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 22
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            434,
+            881
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 23
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            586,
+            880
+          ],
+          "text": "1",
+          "reading_order": 24
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            558,
+            35
+          ],
+          "text": "Weidmüller",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26\nD-32758 Detmold\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            128,
+            143
+          ],
+          "text": "技术一夕",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            39,
+            179,
+            588,
+            788
+          ],
+          "text": "<table><tr><td>深念框架、标准和政</td><td>112.4 mm</td><td>奥行舍(♂ンチ)</td><td>4.425 inch</td></tr><tr><td>框架</td><td>45 mm</td><td>帽(♂ンチ)</td><td>1.772 inch</td></tr><tr><td>度、中径</td><td>100 mm</td><td>長さ(♂ンチ)</td><td>3.937 inch</td></tr><tr><td>正味重量</td><td>280 g</td><td></td><td></td></tr><tr><td colspan=\"4\">温度</td></tr><tr><td>保管温度</td><td>-40 °C...85 °C</td><td>動作温度</td><td>0 °C...70 °C</td></tr><tr><td>勤作温度持の温度</td><td>0 ~ 95% (结露なし)</td><td>温度</td><td>5 ~ 95%, 結露なし</td></tr><tr><td colspan=\"4\">失敗の確率</td></tr><tr><td>IEC 61508に準點したSIL</td><td>該当なし</td><td>MTTF</td><td>138 a</td></tr><tr><td colspan=\"4\">入力</td></tr><tr><td>センサー</td><td>熱電対 :B. E. J. K, L. N. R. S, T(IEC 60584),PT100, PT1000, (EN 60571) N100, N1000, (JIS1604), Cu10, Cu25, Cu50, Cu100 (DIN 43760) 2-分-4煉式</td><td>センサー供給</td><td></td></tr><tr><td>ポテンショメータ</td><td>10...50 g, 50...100 g, 100...200 g, 200...400 g, 400...800 g, 800...2 k0, 2...6.5 kΩ, 6.5...100 Ω</td><td>入力洞波数</td><td></td></tr><tr><td>入力数</td><td></td><td></td><td>調整可能。2 Hz ~ 100 kHz</td></tr><tr><td></td><td></td><td>入力電圧</td><td>-200 ~ 500 mV (最小4 mVスパン) 、-20 ~ 50 VDC (最小0.5 Vスパン)</td></tr><tr><td>入力電流</td><td>-20...+50 mA (最小關係 0.4 mA)</td><td>抵抗</td><td>10 5 k</td></tr><tr><td>温度入力範圍</td><td>設定可能. B: +100...+1820 °C, E: -270...+1000 °C, J:-270...+1200 °C, K:-150...+1372 °C, L: +100...+900 °C, N: -180...+1300 °C, R: -50...+1768 °C, S: -50...+1768 °C, T: -270...+400 °C, U: -200...+600 °C, 二一ザー定義</td><td></td><td></td></tr><tr><td colspan=\"4\">出力</td></tr><tr><td>負荷インピーダンス電流</td><td>≤ 600 Ω, @ max 23mA</td><td></td><td></td></tr><tr><td colspan=\"4\">出力(デジタル)</td></tr><tr><td>デジタル出力数</td><td>2</td><td>定性スイッチング電流</td><td>0.1 A</td></tr><tr><td>持续電流</td><td>2 A</td><td>最大開閉電工. AC</td><td>0 V</td></tr><tr><td>趣別</td><td>2 x 1 CO接点 (梶官タンキ), とステリスズキャンプロセスアラーム(4x),アラーム運行合 (設定可能) 0 ~ 180 s</td><td></td><td></td></tr></table>",
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            45,
+            161,
+            96,
+            179
+          ],
+          "text": "寸法と重量",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            434,
+            881
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            587,
+            880
+          ],
+          "text": "2",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            587,
+            35
+          ],
+          "text": "Weidmüller 王",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26\nD-32758 Detmold\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            128,
+            143
+          ],
+          "text": "技术一夕",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            39,
+            179,
+            588,
+            295
+          ],
+          "text": "<table><tr><td>アナログ出力数</td><td>1</td><td>信号出力</td><td>直接表示,以及如</td></tr><tr><td>出力電圧</td><td>-10...+10 V (最小スパンスБ V) の間で調整可能</td><td>出力電流</td><td>0 ~ 20 mAの銀田ず調整可能 (最小スパンは5 mA)</td></tr><tr><td>抵抗負荷電圧</td><td>0...10 Vズ &gt; 10 kΩ /-10...+10 Vズ &gt; 20 kΩ</td><td>抵抗負荷電流</td><td>700 Ω</td></tr><tr><td>送信機能</td><td>Linear, x 1/2, x 3/2, x 5/2, またはユーザ定義カープ (101ポイント)</td><td></td><td></td></tr></table>",
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            45,
+            161,
+            121,
+            179
+          ],
+          "text": "出力 (アナログ)",
+          "reading_order": 7
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            313,
+            588,
+            492
+          ],
+          "text": "<table><tr><td>ステップ応答案時間</td><td>50 ms (RTD、 mV入力) 、 110 ms (V、 mA入力)</td><td>保護委会认</td><td>IP20</td></tr><tr><td rowspan=\"2\">消費電力</td><td></td><td>温度低数</td><td>0.1 % / K (DC、 RTD) ; &lt;0.1 % FSR / K + CJ工 ラー 0.07 °C/K (サーモカップル)</td></tr><tr><td>3.5 W</td><td>設定</td><td>無料のWindowsンフトウェアを使用する。TTAセットソフトウェア, CBX200USB8978580000構成フザアタが必要</td></tr><tr><td rowspan=\"2\">長期ドリフト</td><td></td><td>電圧供給</td><td>24...240 V AC/DC、 24...36 V AC/24...50VDC (ATEXゾーン2)</td></tr></table>",
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            45,
+            295,
+            94,
+            313
+          ],
+          "text": "一般データ",
+          "reading_order": 9
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            519,
+            567,
+            555
+          ],
+          "text": "<table><tr><td>EMC 基準</td><td>EN 55011, EN 61000-6</td><td>インパルス耐電圧</td><td>6 kV</td></tr><tr><td>サージ電圧カテゴリー</td><td>III</td><td>定格電圧</td><td>300 V</td></tr><tr><td>污染度</td><td>2</td><td>絶縁電圧</td><td>2.5 kV</td></tr></table>",
+          "reading_order": 10
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            45,
+            492,
+            93,
+            510
+          ],
+          "text": "绝缘協調",
+          "reading_order": 11
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            44,
+            582,
+            588,
+            770
+          ],
+          "text": "<table><tr><td>マーキング</td><td colspan=\"3\">II 3 G Ex nA nC IIC T4 Gc</td></tr><tr><td colspan=\"4\">接続データ</td></tr><tr><td>接続方式</td><td>耐 我クランプ接続</td><td>被覆刺き長さ、定格接続</td><td>7 mm</td></tr><tr><td>クランプ範囲、定格接続</td><td>2.5 mm 2</td><td>クランプ範囲、最小</td><td>0.5 mm 2</td></tr><tr><td>クランプ範囲、最大</td><td>2.5 mm 2</td><td></td><td></td></tr><tr><td colspan=\"4\">分類</td></tr><tr><td>ETIM 6.0</td><td>EC002653</td><td>ETIM 7.0</td><td>EC002653</td></tr><tr><td>ETIM 8.0</td><td>EC002653</td><td>ETIM 9.0</td><td>EC002653</td></tr><tr><td>ECLASS 9.0</td><td>27-21-01-20</td><td>ECLASS 9.1</td><td>27-21-01-20</td></tr><tr><td>ECLASS 10.0</td><td>27-21-01-20</td><td>ECLASS 11.0</td><td>27-21-01-20</td></tr><tr><td>ECLASS 12.0</td><td>27-21-01-20</td><td>ECLASS 13.0</td><td>27-21-01-20</td></tr></table>",
+          "reading_order": 12
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            45,
+            564,
+            236,
+            576
+          ],
+          "text": "Ex アプリケーションのデータ (ATEX)",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            434,
+            881
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            587,
+            880
+          ],
+          "text": "3",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            45,
+            26,
+            155,
+            49
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            558,
+            35
+          ],
+          "text": "Weidmüller",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            82
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            82,
+            496,
+            92
+          ],
+          "text": "D-32758 Detmold",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            97,
+            460,
+            107
+          ],
+          "text": "Germany",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            130,
+            144
+          ],
+          "text": "技术一夕",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            161,
+            96,
+            179
+          ],
+          "text": "入札仕様書",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            188,
+            84,
+            206
+          ],
+          "text": "長体仕樣",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            322,
+            188,
+            357,
+            206
+          ],
+          "text": "短体仕樣",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            197,
+            287,
+            219
+          ],
+          "text": "PC で設定可能な、",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            219,
+            308,
+            230
+          ],
+          "text": "ション用のコンパータとト",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            230,
+            308,
+            250
+          ],
+          "text": "リップ增幅器とを絶縁する\nユニパーサル測定",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            250,
+            308,
+            278
+          ],
+          "text": "幅が45mmのユニバーサ\nル測定分離変換器およびト\nリップ增幅器を、",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            278,
+            309,
+            317
+          ],
+          "text": "電圧とセンサー用の外部電\n源て用い、 アナログ DC 電\n流\n- 20 ~ 50 mA, 電圧 - 200",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            317,
+            309,
+            336
+          ],
+          "text": "~ 500 mV/-20 ~ 50\nv、 2/3/4 線式 RTD, 抵抗",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            336,
+            308,
+            356
+          ],
+          "text": "器、\nIEC 584 に準拠した熱電",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            356,
+            308,
+            375
+          ],
+          "text": "対、最大 100 kHz の周波\n数 {2/3 線式センサー}を送",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            376,
+            309,
+            404
+          ],
+          "text": "信および分離します。\n出力側ては、 譬報用の 2 つ\nのスイッチング出力 (CO 接",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            404,
+            308,
+            423
+          ],
+          "text": "点)が使用てきます。\nアナログ DC 電圧 $\\leftarrow 10 \\ldots$",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            423,
+            308,
+            442
+          ],
+          "text": "+10V),電流出力(0...20\nmA)を使用てきます。",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            442,
+            308,
+            462
+          ],
+          "text": "このコンポーネントは、 独\n自の TTA-Set ソフトウェ",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            462,
+            308,
+            491
+          ],
+          "text": "アを使用して PC て設定て\nきます。\nTS35 しール取り付け用ア",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            491,
+            308,
+            501
+          ],
+          "text": "ドオンハウジング",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            501,
+            308,
+            519
+          ],
+          "text": "寸法:L/W/H 100/45/\n112.4 mm",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            519,
+            308,
+            529
+          ],
+          "text": "テンションクランプ接続/",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            529,
+            281,
+            551
+          ],
+          "text": "呼び断面 1.5 mm2\n保護等級: IP 20",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            551,
+            308,
+            561
+          ],
+          "text": "2019年12月21日",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            561,
+            308,
+            579
+          ],
+          "text": "-200...500 mV / -10_+10\nV",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            579,
+            311,
+            600
+          ],
+          "text": "PT100, PT1000, N1000\n2-/3-/4-線",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            600,
+            308,
+            627
+          ],
+          "text": "10 オーム..5 kオーム/ポテ\nンショメータ 100オーム...\n100kオーム",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            627,
+            308,
+            638
+          ],
+          "text": "Thermocouple type B, E, J,",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            638,
+            308,
+            657
+          ],
+          "text": "K, N, R, S, T\nFrequencies $2 \\mathrm{~Hz} \\ldots 100 \\mathrm{kHz}$",
+          "reading_order": 34
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            657,
+            308,
+            677
+          ],
+          "text": "(2/3線センサ)\n24 V DC / 22 mAのセンサ",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            677,
+            308,
+            696
+          ],
+          "text": "電源\n出力アナログ0_20 mA /",
+          "reading_order": 36
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            696,
+            308,
+            715
+          ],
+          "text": "調整可能\n-10...+10 V/調整可能なり",
+          "reading_order": 37
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            715,
+            308,
+            725
+          ],
+          "text": "レー出力/アラーム2 CO.",
+          "reading_order": 38
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            725,
+            308,
+            735
+          ],
+          "text": "硬質金メッキ",
+          "reading_order": 39
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            735,
+            308,
+            753
+          ],
+          "text": "250 VAC $3 A / 30 VDC\n$2A",
+          "reading_order": 40
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            753,
+            308,
+            763
+          ],
+          "text": "/負荷抵抗< 700 オーム/電",
+          "reading_order": 41
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            763,
+            308,
+            783
+          ],
+          "text": "流/ >10 kオーム/電圧\n送信エラー < 0.1 % v. E.",
+          "reading_order": 42
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            783,
+            308,
+            802
+          ],
+          "text": "{DC,RTD}\n< 0,2 % + CJ Fehler {TC}",
+          "reading_order": 43
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            802,
+            308,
+            821
+          ],
+          "text": "ステップ応答時間\n10...90 % < 50 ms...1 s 調",
+          "reading_order": 44
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            821,
+            308,
+            831
+          ],
+          "text": "整可能 (页面存档备份\n,\n存于)",
+          "reading_order": 45
+        },
+        {
+          "label": "para",
+          "bbox": [
+            185,
+            831,
+            323,
+            842
+          ],
+          "text": "補助電源 24...240 V AC/_____",
+          "reading_order": 46
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            842,
+            218,
+            859
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CESPC.\n24.",
+          "reading_order": 47
+        },
+        {
+          "label": "para",
+          "bbox": [
+            196,
+            859,
+            299,
+            870
+          ],
+          "text": "DC( $\\vee$ -> 2)",
+          "reading_order": 48
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            870,
+            233,
+            889
+          ],
+          "text": "↑ 《中国河湖大典》编纂委员会\n. (M) 1\n.\n北京: 中国水利水电出版社\n.\n2013年1月: 29页\n.\nISBN 97878070043933\n.",
+          "reading_order": 49
+        },
+        {
+          "label": "para",
+          "bbox": [
+            478,
+            770,
+            587,
+            837
+          ],
+          "text": "PC て設定可能な、 Ex ゾー\nン 2 アプリケーション用の\nコンバータとトリップ増幅\n器とを絶縁するユニバーサ\nル測定\n電圧とセンサー用の外部電\n源",
+          "reading_order": 50
+        },
+        {
+          "label": "para",
+          "bbox": [
+            463,
+            837,
+            588,
+            895
+          ],
+          "text": "を用いた45mm幅でコン\nバータとトリップ増幅器と\nを絶縁するユニバーサル測\n定により、 アナログ DC 電\n流 を送信および絶縁しま\nす。",
+          "reading_order": 51
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            48,
+            881,
+            308,
+            895
+          ],
+          "text": "这是一篇與中國人物相關的小作品。 你可以编辑或修订扩充其内容。",
+          "reading_order": 52
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            17,
+            587,
+            35
+          ],
+          "text": "Weidmüller 之",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26\nD-32758 Detmold\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            128,
+            143
+          ],
+          "text": "技术一夕",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            161,
+            155,
+            179
+          ],
+          "text": "環境製品コンプライアンス",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            188,
+            588,
+            215
+          ],
+          "text": "<table><tr><td>REACH SVHC</td><td>Lead 7439-92-1 6,6'-di-tert-butyl-2,2'-methylenedi-p-cresol 119-47-1</td></tr><tr><td>SCIP</td><td>c2a21576-d875-4548-ae68-5e7f85ddf0c7</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            224,
+            93,
+            233
+          ],
+          "text": "重要なメモ",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            250,
+            75,
+            259
+          ],
+          "text": "製品情報",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            259,
+            586,
+            306
+          ],
+          "text": "WAS/WAZ6 TTA は、PC て構成可能なユニバーサルシグナルコンパータおよぴトリップアンブてす。単一のモ\nジュールて分離、伝送、線形化、トリップ増幅の機能が組み合わされます。\nこれらの優れた特性と優れた構成機能を組み合わせることて、TTA は非常に特徴的なものになります。\nTTA は広い電圧および周囲温度ての, 安定性と精度を備えています。 それは標準センサーの種類に対応していま\nす。",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            214,
+            313,
+            585,
+            335
+          ],
+          "text": "全般的入力信号:抵抗温度計、 サーモカップル、 ポテンショメータ、 周波数送信機、 直流電圧信号、 電流信\n号などの温度信号",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            216,
+            336,
+            328,
+            354
+          ],
+          "text": "レープ駆動式またはパッシブ入力\nな範囲の電源: 18 264 V AC / D",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            213,
+            354,
+            325,
+            364
+          ],
+          "text": "这是一篇與中國人物相關的小作品。 你可以编辑或修订扩充其内容。",
+          "reading_order": 13
+        },
+        {
+          "label": "list",
+          "bbox": [
+            215,
+            365,
+            320,
+            383
+          ],
+          "text": "としたかと出力を設定可能\nアナログ出力とリレー出力の組",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            213,
+            385,
+            318,
+            394
+          ],
+          "text": "周团温度範囲は-40 C ~ 70 C",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            403,
+            427,
+            426
+          ],
+          "text": "CBX200 USBインターフェースは、 PC への接続に使用されます。\nWAS/WAZ6 TTA は、 ATEX Zone 2 および UL C1D2 の承認を含",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            426,
+            549,
+            430
+          ],
+          "text": "1990年\n,\n中国在中国大陆的广东省广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东市广东",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            447,
+            66,
+            456
+          ],
+          "text": "承認",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            474,
+            57,
+            483
+          ],
+          "text": "12日",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            200,
+            473,
+            327,
+            529
+          ],
+          "text": "( )",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            352,
+            473,
+            394,
+            519
+          ],
+          "text": "@us",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            501,
+            515,
+            514
+          ],
+          "text": "WATEXIECEX",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            528,
+            81,
+            540
+          ],
+          "text": "ROHS",
+          "reading_order": 24
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            540,
+            588,
+            582
+          ],
+          "text": "<table><tr><td>UL File Number Search</td><td>UL ウェブサイト</td></tr><tr><td>廷明書画号 (cULus)</td><td>E141197</td></tr><tr><td>廷明書画号 (cULusEX)</td><td>E223527</td></tr></table>",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            582,
+            105,
+            594
+          ],
+          "text": "ダウンロード",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            609,
+            140,
+            622
+          ],
+          "text": "承認/証明書/適合証明書",
+          "reading_order": 27
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            45,
+            622,
+            367,
+            699
+          ],
+          "text": "<table><tr><td></td><td>Application notes – DNV GL Certificate Declaration of Conformity</td></tr><tr><td>エンジニアリングデータ</td><td>CAD data – STEP</td></tr><tr><td>ソフトウェア</td><td>Runtime Software – Install_TTASet_V107</td></tr><tr><td rowspan=\"2\">ユーザ文書</td><td>Device description – Manual english, deut</td></tr><tr><td>Device description – Instruction sheet</td></tr><tr><td>カタログ</td><td>Catalogues in PDF-format</td></tr></table>",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            46,
+            699,
+            93,
+            707
+          ],
+          "text": "不知一シャー",
+          "reading_order": 29
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            434,
+            881
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST\nカタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 30
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            587,
+            880
+          ],
+          "text": "5",
+          "reading_order": 31
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            587,
+            35
+          ],
+          "text": "Weidmüller 王",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26\nD-32758 Detmold\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            84,
+            143
+          ],
+          "text": "図面",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_006.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_006.png",
+          "bbox": [
+            84,
+            197,
+            272,
+            367
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            101,
+            367,
+            254,
+            379
+          ],
+          "text": "Screenshot of TTA Set software",
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_008.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_008.png",
+          "bbox": [
+            361,
+            215,
+            549,
+            349
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            361,
+            367,
+            549,
+            394
+          ],
+          "text": "example of user defined transfer function\nfor assigning customized output values",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_010.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_010.png",
+          "bbox": [
+            93,
+            430,
+            264,
+            546
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            127,
+            582,
+            228,
+            591
+          ],
+          "text": "connection to your PC",
+          "reading_order": 11
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_012.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_012.png",
+          "bbox": [
+            379,
+            412,
+            541,
+            582
+          ],
+          "reading_order": 12
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_013.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_013.png",
+          "bbox": [
+            352,
+            645,
+            549,
+            779
+          ],
+          "reading_order": 13
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_006_figure_014.png)",
+          "figure_path": "figures/A700000011376168_page_006_figure_014.png",
+          "bbox": [
+            84,
+            636,
+            254,
+            797
+          ],
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            434,
+            881
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            587,
+            880
+          ],
+          "text": "6",
+          "reading_order": 17
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            17,
+            587,
+            35
+          ],
+          "text": "Weidmüller 之",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            82
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            82,
+            496,
+            92
+          ],
+          "text": "D-32758 Detmold",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            97,
+            460,
+            107
+          ],
+          "text": "Germany",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            128,
+            143
+          ],
+          "text": "アクセサリ",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            170,
+            146,
+            180
+          ],
+          "text": "構成インターフェース",
+          "reading_order": 8
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_007_figure_009.png)",
+          "figure_path": "figures/A700000011376168_page_007_figure_009.png",
+          "bbox": [
+            155,
+            188,
+            200,
+            304
+          ],
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            304,
+            115,
+            322
+          ],
+          "text": "一般注文データ",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            322,
+            129,
+            331
+          ],
+          "text": "糖尿  CBX200 US",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            331,
+            137,
+            344
+          ],
+          "text": "注文备号 8978580000",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            349,
+            155,
+            358
+          ],
+          "text": "GTIN (EAN) 4032248813759",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            45,
+            358,
+            111,
+            368
+          ],
+          "text": "数量 1 StuC",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            434,
+            881
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            576,
+            869,
+            587,
+            880
+          ],
+          "text": "7",
+          "reading_order": 17
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            26,
+            146,
+            44
+          ],
+          "text": "データシート",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            415,
+            8,
+            587,
+            35
+          ],
+          "text": "Weidmüller 王",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            62,
+            146,
+            72
+          ],
+          "text": "WAZ6 TTA EX",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            61,
+            585,
+            107
+          ],
+          "text": "Weidmüller Interface GmbH & Co. KG\nKlingenbergstraße 26\nD-32758 Detmold\nGermany",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            125,
+            84,
+            143
+          ],
+          "text": "図面",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            415,
+            116,
+            514,
+            127
+          ],
+          "text": "www.weidmueller.com",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_008_figure_006.png)",
+          "figure_path": "figures/A700000011376168_page_008_figure_006.png",
+          "bbox": [
+            84,
+            224,
+            263,
+            349
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            323,
+            179,
+            363,
+            190
+          ],
+          "text": "國に類似",
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_008_figure_008.png)",
+          "figure_path": "figures/A700000011376168_page_008_figure_008.png",
+          "bbox": [
+            370,
+            197,
+            541,
+            376
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            128,
+            535,
+            218,
+            549
+          ],
+          "text": "Analogue Inputs",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/A700000011376168_page_008_figure_010.png)",
+          "figure_path": "figures/A700000011376168_page_008_figure_010.png",
+          "bbox": [
+            110,
+            549,
+            523,
+            698
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            45,
+            842,
+            209,
+            854
+          ],
+          "text": "作成日 2024/06/28 5:43:29 CEST",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            582,
+            869,
+            588,
+            880
+          ],
+          "text": "8",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            46,
+            869,
+            435,
+            887
+          ],
+          "text": "カタログステータス 14.06.2024 / 当社は技術的変更を実施する権利を有しています。",
+          "reading_order": 13
+        }
+      ]
+    }
+  ]
+}
