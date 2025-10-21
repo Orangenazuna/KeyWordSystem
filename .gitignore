@@ -1,0 +1,44 @@
+# =========================
+# Python cache and build
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+
+# =========================
+# Environment and editor files
+# =========================
+.vscode/
+.env
+*.venv/
+venv/
+ENV/
+.idea/
+*.log
+
+# =========================
+# Local data and output
+# =========================
+data/
+db/
+output/
+*.sqlite3
+*.db
+*.json
+*.csv
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# System / OS specific
+# =========================
+.DS_Store
+Thumbs.db
