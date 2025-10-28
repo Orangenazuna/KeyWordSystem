@@ -28,7 +28,7 @@
 
 ### ⚙️ 系统工作流程
 
-![SystemFlow](\SystemFlow.png)
+![SystemFlow](SystemFlow.png)
 
 ```
 📁 上传IoT文档（PDF/DOCX/JPG）
